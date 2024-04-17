@@ -1,0 +1,1450 @@
+Using pre-set license
+Built from 'HEAD' branch; Version is '2021.3.15f1c1 (080beb55ecda) revision 527339'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 49100 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Unity\Editor\2021.3.15f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+F:/Unity/2DBearAdventure
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+59549
+Successfully changed project path to: F:/Unity/2DBearAdventure
+F:/Unity/2DBearAdventure
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15904] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 2169796568 [EditorId] 2169796568 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15904] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 2169796568 [EditorId] 2169796568 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 184.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1c1 (080beb55ecda)
+[Subsystems] Discovering subsystems at path E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity/2DBearAdventure/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8003 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56104
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/Editor/2021.3.15f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004134 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 167.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Domain Reload Profiling:
+	ReloadAssembly (820ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (601ms)
+			LoadAssemblies (92ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (384ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (167ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015669 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 149.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.522 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1523ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (1280ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (301ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (735ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (149ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (340ms)
+				ProcessInitializeOnLoadMethodAttributes (91ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 3.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5767 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 74 unused Assets / (2.2 MB). Loaded Objects now: 6202.
+Memory consumption went from 231.7 MB to 229.5 MB.
+Total: 8.738700 ms (FindLiveObjects: 1.149400 ms CreateObjectMapping: 0.228600 ms MarkObjects: 5.682500 ms  DeleteObjects: 1.674500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 303426.217102 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander
+  artifactKey: Guid(4355578784443a5448e9d43af65aad6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander using Guid(4355578784443a5448e9d43af65aad6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e212791ebe2b1e14a0b42369b99d714') in 0.021840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.939469 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/small_monster_v04.spine
+  artifactKey: Guid(4e16e089a611c7b4cafe5c4dbdb8d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/small_monster_v04.spine using Guid(4e16e089a611c7b4cafe5c4dbdb8d794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bde3c616cfec376a2596b556e8c94e') in 0.035489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.455889 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/images
+  artifactKey: Guid(62790ef72943c7c4bb015dd1071fa18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/images using Guid(62790ef72943c7c4bb015dd1071fa18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd592e91684fb4be214ece10e349c94') in 0.014767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032753 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/images/BODY.png
+  artifactKey: Guid(59836ccbc96a7c541b4b355b694adf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Spine/Monster_1_Salamander/images/BODY.png using Guid(59836ccbc96a7c541b4b355b694adf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce45dd68c76a797355096d144fbbcedc') in 0.141598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.563101 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander
+  artifactKey: Guid(fbbe4d9acd239af4eace8ade0b005ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander using Guid(fbbe4d9acd239af4eace8ade0b005ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea92bd3c54ff5457a1ff3ad3f3125e92') in 0.002391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025595 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander/monster_small.png
+  artifactKey: Guid(7bbdf1b03ebc40e4180a1c9ce5e6a566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander/monster_small.png using Guid(7bbdf1b03ebc40e4180a1c9ce5e6a566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b9287609e0d167047eb6dae93d5960') in 0.019120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.595957 seconds.
+  path: Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander/monster_small.atlas.txt
+  artifactKey: Guid(bdfe26547dd441c4a9eb09929bea6fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantazia Animated 2D Monsters/Source_Animations/Monster_1_Salamander/monster_small.atlas.txt using Guid(bdfe26547dd441c4a9eb09929bea6fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0992f06d24c0d5a8c1f80e2a61b489c1') in 0.026053 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016252 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1153ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (928ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (267ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (458ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (83ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.68 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5664 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (2.2 MB). Loaded Objects now: 6224.
+Memory consumption went from 225.8 MB to 223.7 MB.
+Total: 4.840300 ms (FindLiveObjects: 0.588300 ms CreateObjectMapping: 0.136600 ms MarkObjects: 3.191000 ms  DeleteObjects: 0.923100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 364.039261 seconds.
+  path: Assets/Scenes/DemoScene.unity
+  artifactKey: Guid(feb3da6735a8f3447b82ef1917643784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DemoScene.unity using Guid(feb3da6735a8f3447b82ef1917643784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca3d974ffcdbc0aeab655e4fd68909e') in 0.019687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 874.501468 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Demo
+  artifactKey: Guid(fa866096222b540499c01cf82f0b9566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Demo using Guid(fa866096222b540499c01cf82f0b9566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9476b179fbda2d5b3c244ffccae4b53') in 0.013527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.319752 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_a_back.png
+  artifactKey: Guid(5d5cd0ce335b3ee48addd897eaf335ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_a_back.png using Guid(5d5cd0ce335b3ee48addd897eaf335ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83798b1f1bef0a19e6c1c65b8db72712') in 0.077621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_d_front.png
+  artifactKey: Guid(18b025d22f489784dbc665f7e403a794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_d_front.png using Guid(18b025d22f489784dbc665f7e403a794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8f6003abfa2311983493faff48004d') in 0.038494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_d_front.png
+  artifactKey: Guid(abd22a54a480d7d46bda26f363b3a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_d_front.png using Guid(abd22a54a480d7d46bda26f363b3a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5fecb868bac572307448f77ff7820d') in 0.041079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_a_front.png
+  artifactKey: Guid(48eb9ccde94396e4b88bc89a55489248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_a_front.png using Guid(48eb9ccde94396e4b88bc89a55489248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f19da46558c0571a20cd1b60b5c5b7') in 0.039750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_c_front.png
+  artifactKey: Guid(e05917bd72479a34eb7f103899c579b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_c_front.png using Guid(e05917bd72479a34eb7f103899c579b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5267a53a3e47d16928faac7c6d2a530') in 0.040487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_c_front.png
+  artifactKey: Guid(0c85b2ad3d4d50146bcf311864fa79ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_c_front.png using Guid(0c85b2ad3d4d50146bcf311864fa79ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71063e1f8dde4018635fd86924810932') in 0.034596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_c_back.png
+  artifactKey: Guid(a4bcf2772c030044db9d610fc9fddbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_c_back.png using Guid(a4bcf2772c030044db9d610fc9fddbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83529ebcb70f93c42eebad98afa2ff39') in 0.031181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_c_back.png
+  artifactKey: Guid(81fc6ad2100bc2f4a862f301a5c039f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_c_back.png using Guid(81fc6ad2100bc2f4a862f301a5c039f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef46f1dbe7f5f64e0481ae3946a1a4f1') in 0.035673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_a_back.png
+  artifactKey: Guid(0ac9bba98f49531409ad5423ce102312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_a_back.png using Guid(0ac9bba98f49531409ad5423ce102312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f8894993aa8eb616e6608f1a98dfd6') in 0.032869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_a_back.png
+  artifactKey: Guid(6a22e3b1fc43ff349992ef8548f6e245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_a_back.png using Guid(6a22e3b1fc43ff349992ef8548f6e245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f36311127720f02de71316a6b3d2bbb') in 0.040744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_c_front.png
+  artifactKey: Guid(f06e68a814853874c91c186180e40482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_c_front.png using Guid(f06e68a814853874c91c186180e40482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005f65cb093aaa9f6d575b578fa92c35') in 0.033876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_a_back.png
+  artifactKey: Guid(8f88ff8b1c0225345b1b629ef5ef406f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_a_back.png using Guid(8f88ff8b1c0225345b1b629ef5ef406f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7413be858023dba29fc65c2d3861654a') in 0.030364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_b_front.png
+  artifactKey: Guid(62b9434703af03f47b5d4a8f3e3ed768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_b_front.png using Guid(62b9434703af03f47b5d4a8f3e3ed768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21fbaf7bdf0c716415d3756e9b1a5b1') in 0.031382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_a_front.png
+  artifactKey: Guid(e79309a629309b448b28b49d31b60ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_a_front.png using Guid(e79309a629309b448b28b49d31b60ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4543f08f29dc9e79a3bb3abc30b81202') in 0.031631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_a_front.png
+  artifactKey: Guid(2ba39bc928831784b9626e953d2d8854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_a_front.png using Guid(2ba39bc928831784b9626e953d2d8854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96334a3b62bd1c0c57fd24bc0d2df4cf') in 0.029913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_d_back.png
+  artifactKey: Guid(6364228cf649fc548ab3941762d37f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_d_back.png using Guid(6364228cf649fc548ab3941762d37f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4202786179829f2755aad27bc0eba25') in 0.036930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_c_back.png
+  artifactKey: Guid(4138ed26f726ba34c9c17d195ce88c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_c_back.png using Guid(4138ed26f726ba34c9c17d195ce88c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c53212c71331d00c14c1f45d1aa468') in 0.030749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_c_front.png
+  artifactKey: Guid(3b044b9700001fc42b9ae03a91f815d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_c_front.png using Guid(3b044b9700001fc42b9ae03a91f815d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12698f83f2401a1727da24652dd6376a') in 0.032188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_a_front.png
+  artifactKey: Guid(952d2e9e05b59ea4ab61059c65539ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_a_front.png using Guid(952d2e9e05b59ea4ab61059c65539ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd15313920c02150337cbfe748d3e9d0') in 0.030105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_c_front.png
+  artifactKey: Guid(28434e49f92c1874d81f63164d6a6e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_c_front.png using Guid(28434e49f92c1874d81f63164d6a6e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd483b20f57be75ab9bdf7032690b44f5') in 0.032513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_a_back.png
+  artifactKey: Guid(3c0b1895c87013e4484f2fb3f4375bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_a_back.png using Guid(3c0b1895c87013e4484f2fb3f4375bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c1f386973ff5bc9355e231b24c8dc6') in 0.038448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_b_back.png
+  artifactKey: Guid(313ef618c65191849841b50cf22e9596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_002_b_back.png using Guid(313ef618c65191849841b50cf22e9596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b770fb409181c09e432dcd4f1508ad93') in 0.032781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_b_back.png
+  artifactKey: Guid(f5d2a6bd6f8e83b4d8d2a1d2a9f8024d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_b_back.png using Guid(f5d2a6bd6f8e83b4d8d2a1d2a9f8024d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8321665f73aa411020860f744b236f0c') in 0.031057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_a_back.png
+  artifactKey: Guid(2e5a6e68cfed319448c2a003d2e465a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_a_back.png using Guid(2e5a6e68cfed319448c2a003d2e465a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33201bd8ecf7aff9a7d30f8ca1fdebb4') in 0.032536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_003_a_back.png
+  artifactKey: Guid(d6dc442b3013196478009016df66ce24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_003_a_back.png using Guid(d6dc442b3013196478009016df66ce24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e39c0a8c255d696d0a543a26aef3cc') in 0.030750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_d_back.png
+  artifactKey: Guid(adb251d269d031b4090606ec74cbc68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_d_back.png using Guid(adb251d269d031b4090606ec74cbc68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee75415604fdae60dadb6f3b5e424840') in 0.042645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_b_front.png
+  artifactKey: Guid(2578a500f68291147b03a7278e4c302f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_b_front.png using Guid(2578a500f68291147b03a7278e4c302f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed41289d7101fc6ea9030b252ddc1a8') in 0.034556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_017_c_back.png
+  artifactKey: Guid(48449116e30f19b479bb0a933acb2954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_017_c_back.png using Guid(48449116e30f19b479bb0a933acb2954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f827f0b120be9497705ee1bd124ef98') in 0.032664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_d_front.png
+  artifactKey: Guid(6bacb1702a19c134194ad262c45662b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_d_front.png using Guid(6bacb1702a19c134194ad262c45662b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec1a64ed564638465fec83f0888db1e') in 0.031534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_018_b_back.png
+  artifactKey: Guid(ce48fe82302aed645967b3d819aa3a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_018_b_back.png using Guid(ce48fe82302aed645967b3d819aa3a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dc857cfcd589c49dd103b88a3bf5cc') in 0.030997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_c_back.png
+  artifactKey: Guid(2cc16f2b5e7726e40b9a840479d5a2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_c_back.png using Guid(2cc16f2b5e7726e40b9a840479d5a2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0549395983b0f4e9f3bc540e80c800b') in 0.029800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_c_back.png
+  artifactKey: Guid(25094b0c20414fe44a5912e24f4509c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_c_back.png using Guid(25094b0c20414fe44a5912e24f4509c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561c7765a6e87f28ac5cc4b50a2aa598') in 0.034955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_a_back.png
+  artifactKey: Guid(c3f84c7b465110d48ac6f61b4558cf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_a_back.png using Guid(c3f84c7b465110d48ac6f61b4558cf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68c990e562db2fbfef5b65e2903ec1a') in 0.028366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_c_back.png
+  artifactKey: Guid(61c3958b18bceb5479656dfd1dc19de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_c_back.png using Guid(61c3958b18bceb5479656dfd1dc19de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909360811c6ea490c928001e3e475b07') in 0.029359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_a_front.png
+  artifactKey: Guid(fcc6cdd5b52c025429997a79d93d7745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_a_front.png using Guid(fcc6cdd5b52c025429997a79d93d7745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43268da6bba240b7d438db9c27794e12') in 0.031089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_b_front.png
+  artifactKey: Guid(1d4d9bddc34dcc644b5c9b7bfed26c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_b_front.png using Guid(1d4d9bddc34dcc644b5c9b7bfed26c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8d8120c049c1fb92c2dc283be5ca4b') in 0.028399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_d_front.png
+  artifactKey: Guid(f13751726ed3da24196ac6ff07eab196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_013_d_front.png using Guid(f13751726ed3da24196ac6ff07eab196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e1f34fb1fb9ac1f98123b071eb8111') in 0.033518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_b_back.png
+  artifactKey: Guid(7676e3ecb6e590947995fc4995fd82c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_b_back.png using Guid(7676e3ecb6e590947995fc4995fd82c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540ea260ad2886cc5972f5f408f59843') in 0.029205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_d_front.png
+  artifactKey: Guid(ce5662f8ad3d280468954bb093734c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_d_front.png using Guid(ce5662f8ad3d280468954bb093734c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ac7384e3ccdafe79c467277414fc40') in 0.030744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_a_front.png
+  artifactKey: Guid(48d1de7fa1b88a5419561e387c08922f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_a_front.png using Guid(48d1de7fa1b88a5419561e387c08922f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eca997e2c152d8ce2c025a6ef6af4e3') in 0.029607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_015_a_back.png
+  artifactKey: Guid(a6eab0cfc64a1924c8bb6ac0eb7210c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_015_a_back.png using Guid(a6eab0cfc64a1924c8bb6ac0eb7210c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7eab288e3eb724bb341399606ca13a') in 0.030270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_c_back.png
+  artifactKey: Guid(23e14eda2689a744ebb4daeb80f9a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_c_back.png using Guid(23e14eda2689a744ebb4daeb80f9a59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68cae8a2df65fd684d119d98aab8854b') in 0.029529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_c_back.png
+  artifactKey: Guid(65002298d2a9de548a5620a78ba67c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_c_back.png using Guid(65002298d2a9de548a5620a78ba67c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedafbfc42168116b634d1893abeb844') in 0.032418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_d_front.png
+  artifactKey: Guid(051565c1f3bcf8d44acf2d6fb2644800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_d_front.png using Guid(051565c1f3bcf8d44acf2d6fb2644800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987b5b564a744d9c55b3d61e25135150') in 0.027319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_a_back.png
+  artifactKey: Guid(4c54a71bc19e7a3419bcb5df5bde27e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_a_back.png using Guid(4c54a71bc19e7a3419bcb5df5bde27e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a8986187deab11197b02e4604d4708') in 0.029811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_015_c_back.png
+  artifactKey: Guid(ddfc2f02efa0c474da8aa30ee0e45b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_015_c_back.png using Guid(ddfc2f02efa0c474da8aa30ee0e45b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9fe5ddb8022d72bba35d342d697b1d') in 0.035814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_c_front.png
+  artifactKey: Guid(c418b758bc4b0f6459bba96dae4d42e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_c_front.png using Guid(c418b758bc4b0f6459bba96dae4d42e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a647d1a8a059001a45f5ca00d550fe9') in 0.032792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_b_back.png
+  artifactKey: Guid(4e12e1f5bf8eed249a8e062d585dc4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_b_back.png using Guid(4e12e1f5bf8eed249a8e062d585dc4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e9867fe7d2285e55db3bb3248ac34b') in 0.030080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_c_back.png
+  artifactKey: Guid(ab38301506e78ca41b127b8882f097bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_006_c_back.png using Guid(ab38301506e78ca41b127b8882f097bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbdd612d651b4dc412571d884e7c7be') in 0.031146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_b_back.png
+  artifactKey: Guid(7a95ac61c1ecc0347929bf9a17feeee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_b_back.png using Guid(7a95ac61c1ecc0347929bf9a17feeee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0d4aa435c3b16e406130cb94f2fc9c') in 0.031630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_a_back.png
+  artifactKey: Guid(a7f3ad01030fbfd48a6673e1240e3d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_a_back.png using Guid(a7f3ad01030fbfd48a6673e1240e3d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d304ea32304cdb3fe862d4afbd1f99') in 0.031670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_c_front.png
+  artifactKey: Guid(0605ffd9029d7fe4981031ebf3128a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_c_front.png using Guid(0605ffd9029d7fe4981031ebf3128a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f4f88132337a165630dbdf4fa94a1c') in 0.031481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_a_front.png
+  artifactKey: Guid(77d7ee9a368ba2f488b17904ebe50af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_a_front.png using Guid(77d7ee9a368ba2f488b17904ebe50af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e625744bcd2e62c91b01250133434b8a') in 0.034496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_a_back.png
+  artifactKey: Guid(ee4b96435224adb4faadf6e52c8e86ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_005_a_back.png using Guid(ee4b96435224adb4faadf6e52c8e86ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e096b2c69296bdefa401e962c308dd') in 0.032986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_b_front.png
+  artifactKey: Guid(5dffdf8fd573adf4280867309cea5272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_b_front.png using Guid(5dffdf8fd573adf4280867309cea5272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c357aa4ea1c33029d433b935dd781f') in 0.032329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_c_back.png
+  artifactKey: Guid(b741fa2f77af49049a47860cbaddf883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_001_c_back.png using Guid(b741fa2f77af49049a47860cbaddf883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37dbbf4ca4e7ee5c3766707c8f96585') in 0.034943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_c_front.png
+  artifactKey: Guid(548a889514ec1de4d86ef2dde7a88649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_010_c_front.png using Guid(548a889514ec1de4d86ef2dde7a88649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca4430c160c7443a8d4d59b77f6f611') in 0.032032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_b_back.png
+  artifactKey: Guid(d068decd1098f8e44b0e4d1a8f5a9b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_008_b_back.png using Guid(d068decd1098f8e44b0e4d1a8f5a9b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc6d6e6a75a22c0a79f15e085255b01') in 0.032206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_b_back.png
+  artifactKey: Guid(d3c5e06bdad809841a81fe11ecf2c0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_012_b_back.png using Guid(d3c5e06bdad809841a81fe11ecf2c0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cebfe750fda746d4e0fe7c2e9718b7') in 0.035903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_003_c_front.png
+  artifactKey: Guid(74e7fa63f3c68b3458d5448c302965e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_003_c_front.png using Guid(74e7fa63f3c68b3458d5448c302965e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce2c0f47311733c8ad76cbc35086b68') in 0.031879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_b_front.png
+  artifactKey: Guid(51c21f5f101dc2043a22019755be9e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_007_b_front.png using Guid(51c21f5f101dc2043a22019755be9e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f08d2ae07556aacd95930b23f86a150') in 0.033806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_017_a_front.png
+  artifactKey: Guid(fec7539b2ccf2934b9b76ae56383fcd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_017_a_front.png using Guid(fec7539b2ccf2934b9b76ae56383fcd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b3eb36772db45e891f45deffe83b1c') in 0.037176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_c_front.png
+  artifactKey: Guid(97af3f33bab28084eb2c7019b4aefa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_009_c_front.png using Guid(97af3f33bab28084eb2c7019b4aefa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150ec3d54ec757d43f85119c272fe541') in 0.034214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_a_front.png
+  artifactKey: Guid(9eaecac359ddc754994d6768acfba8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_011_a_front.png using Guid(9eaecac359ddc754994d6768acfba8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87200cac882cb944103c9744ec1b20e1') in 0.039356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_a_front.png
+  artifactKey: Guid(c61c4bb76a4541e4285c3ce631cef793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_014_a_front.png using Guid(c61c4bb76a4541e4285c3ce631cef793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60404fd814a7f3ef018bf8ab415dc6a9') in 0.034526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_b_front.png
+  artifactKey: Guid(a7023d264e56ccd42b80f3ce9bef9f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_016_b_front.png using Guid(a7023d264e56ccd42b80f3ce9bef9f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3630849316679293eab0765da77c2d') in 0.029946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.443961 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_b_front.png
+  artifactKey: Guid(9eb33e97306e57245946bae7d02ed08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_b_front.png using Guid(9eb33e97306e57245946bae7d02ed08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48852238423747b19fff4b0a1c05481e') in 0.030698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_d_back.png
+  artifactKey: Guid(29945b9cfcccb8344917c13bcdf1eb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_d_back.png using Guid(29945b9cfcccb8344917c13bcdf1eb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712f4221995efe936408290a62246294') in 0.032251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_a_back.png
+  artifactKey: Guid(eac54491c6bdcc54a99293416aef198d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_a_back.png using Guid(eac54491c6bdcc54a99293416aef198d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ef8d5a70c2831290c501b12d772748') in 0.034511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_d_back.png
+  artifactKey: Guid(484aa02c70b2ebe4fa0839f8d52a209b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_d_back.png using Guid(484aa02c70b2ebe4fa0839f8d52a209b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f9b03ed424c0823c8868141f01370c') in 0.029863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_a_front.png
+  artifactKey: Guid(a08c7b73f3ce3c045b1389ed7d891234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_a_front.png using Guid(a08c7b73f3ce3c045b1389ed7d891234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a0b04f4392d68903fd254bb4ded773') in 0.032188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_b_front.png
+  artifactKey: Guid(b9ab0a2f3fcdbc2469b76a42b3f6f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_021_b_front.png using Guid(b9ab0a2f3fcdbc2469b76a42b3f6f4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0857aa10655704efe3febce75de9c5') in 0.032455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_c_back.png
+  artifactKey: Guid(ef0a21b59eeb78240b87d9dbc241609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_c_back.png using Guid(ef0a21b59eeb78240b87d9dbc241609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69410e65aa2e5227b68e067b8a46f7df') in 0.031531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_b_back.png
+  artifactKey: Guid(e7ef0f6233cd6f14c87be6a9c8720f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_b_back.png using Guid(e7ef0f6233cd6f14c87be6a9c8720f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798308ce3b830bddf45b1bc7fbe602eb') in 0.033163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_d_back.png
+  artifactKey: Guid(1d73481ac72c4f944bb1ee604da81f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_020_d_back.png using Guid(1d73481ac72c4f944bb1ee604da81f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01aa1b45b8d4160279bc7b36ecb76c6') in 0.031923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_c_front.png
+  artifactKey: Guid(3b7dc38cfffbd32439ecb85079968501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_019_c_front.png using Guid(3b7dc38cfffbd32439ecb85079968501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494667829fc863cd187d3849039e2de9') in 0.033333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_a_back.png
+  artifactKey: Guid(e662a274f3e989a43bbf2f6c4b06d3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_a_back.png using Guid(e662a274f3e989a43bbf2f6c4b06d3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b91685f7e182127409a2d10cdf8f19d') in 0.034914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.491256 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_a_front.png
+  artifactKey: Guid(8f43f6064c913a54c89b38649d93aa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_a_front.png using Guid(8f43f6064c913a54c89b38649d93aa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216cba4bf7c237e83df6d78d68ac115b') in 0.033952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_b_front.png
+  artifactKey: Guid(ed0d3831b82404a46830907f56c053b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_b_front.png using Guid(ed0d3831b82404a46830907f56c053b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177c6bc2aca5cd6e0482cf9abf346574') in 0.031435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_b_front.png
+  artifactKey: Guid(c405ccd04f80f4f4196c5c38664240c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_b_front.png using Guid(c405ccd04f80f4f4196c5c38664240c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bc83c2e68bcb8486e9911d487a7b27') in 0.031424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_c_back.png
+  artifactKey: Guid(7b82b1893210a91439c683ddbe6859be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_c_back.png using Guid(7b82b1893210a91439c683ddbe6859be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bc7c3e52e4798de9296b3f64b2f20a') in 0.028613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_a_back.png
+  artifactKey: Guid(bae8fee9668c9a941b21242b1917b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_a_back.png using Guid(bae8fee9668c9a941b21242b1917b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45999f3d9257f58548f762dda6ae93a') in 0.029042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_a_front.png
+  artifactKey: Guid(cc76755e48884cc4585bc253ac6fda03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_a_front.png using Guid(cc76755e48884cc4585bc253ac6fda03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ce71d1fb1b95260914af5f44560ee1') in 0.030494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_c_back.png
+  artifactKey: Guid(5d90f034cbc303b48a08bfe8c522c851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_c_back.png using Guid(5d90f034cbc303b48a08bfe8c522c851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9bf462630712470b34290df995c843') in 0.029367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_c_back.png
+  artifactKey: Guid(b23046e9f9b725d429d1d1232e68d07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_c_back.png using Guid(b23046e9f9b725d429d1d1232e68d07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c976d4dc68f99afc6e0d42beec24250') in 0.031703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_d_back.png
+  artifactKey: Guid(9dd33bfced710174e90953dc04662edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_d_back.png using Guid(9dd33bfced710174e90953dc04662edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0306b1bbb26d58ef4dab3b79bc8e37cc') in 0.036679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_a_back.png
+  artifactKey: Guid(d1a9c347fb56cc4449a7785989b612ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_a_back.png using Guid(d1a9c347fb56cc4449a7785989b612ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7042cf313363e96f3a875ba3ec1f521c') in 0.033351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_a_back.png
+  artifactKey: Guid(517d00c5764db9049b514b6b9b177463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_a_back.png using Guid(517d00c5764db9049b514b6b9b177463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe4f7f552480778051bc2103970ceef') in 0.035043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_b_back.png
+  artifactKey: Guid(d94561a6d96f329419887ffd2384e65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_b_back.png using Guid(d94561a6d96f329419887ffd2384e65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d2d38ed45f96d2ad8fe2f077909302') in 0.041663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_d_front.png
+  artifactKey: Guid(aa3d7834bf90b4d49a3a160bf02aa163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_d_front.png using Guid(aa3d7834bf90b4d49a3a160bf02aa163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801f5212b6a6a7c0f37f58a1d6d39d19') in 0.035369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_c_front.png
+  artifactKey: Guid(f01382be60d093b4ab74c6c415536128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_c_front.png using Guid(f01382be60d093b4ab74c6c415536128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14bd9d7b3d62226951641f5cddc347b') in 0.038894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_c_front.png
+  artifactKey: Guid(3150850a0894ea545833be9b537dc660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_022_c_front.png using Guid(3150850a0894ea545833be9b537dc660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e08f2fc18a9264dd997a8c3e7348583d') in 0.042357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_b_front.png
+  artifactKey: Guid(6b34e281b01b602458f72e4e66163366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_b_front.png using Guid(6b34e281b01b602458f72e4e66163366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefe80b010d549f20cee39002731ebe2') in 0.033304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_c_back.png
+  artifactKey: Guid(75f0a2d0eed31a74ba9832610aac68f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_029_c_back.png using Guid(75f0a2d0eed31a74ba9832610aac68f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03a9b8bc10b1225dc26746b80d41f1d') in 0.033974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_d_front.png
+  artifactKey: Guid(1fbf7ccb753745a498080a31ea71acfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_026_d_front.png using Guid(1fbf7ccb753745a498080a31ea71acfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f794e5edd349d48c76896d041712241a') in 0.032919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_d_back.png
+  artifactKey: Guid(d78f50373a3b5fe469725a312e39dd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_d_back.png using Guid(d78f50373a3b5fe469725a312e39dd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4c1f50c2c5de2ade0d38e8c61761e3') in 0.028851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_b_front.png
+  artifactKey: Guid(e88e139a3b07668459c9cd346979ff3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_b_front.png using Guid(e88e139a3b07668459c9cd346979ff3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7944c62eb8e2b9b9bfcb585792d90f') in 0.027810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_028_c_back.png
+  artifactKey: Guid(344f941855dafce4f8a8c06d1f19ad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_028_c_back.png using Guid(344f941855dafce4f8a8c06d1f19ad6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eddc9c7fca10c13803dbb896572c552') in 0.029254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_a_back.png
+  artifactKey: Guid(92002e537f9f5454e8e6198e4585cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_a_back.png using Guid(92002e537f9f5454e8e6198e4585cbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018543596906f09d419033624eb43758') in 0.029653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_d_back.png
+  artifactKey: Guid(b4a791310a2069148894ac67b8935dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_d_back.png using Guid(b4a791310a2069148894ac67b8935dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546201efe2b3857ca153d0a896a345d2') in 0.030624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_b_front.png
+  artifactKey: Guid(148d585706eba71458af5343b5e2c7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_b_front.png using Guid(148d585706eba71458af5343b5e2c7d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229dcb4b72d34503dec32c8920a35172') in 0.031030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_a_front.png
+  artifactKey: Guid(da25cdd0ee8db934ba755626a18954e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_024_a_front.png using Guid(da25cdd0ee8db934ba755626a18954e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39a0630cedf1d57184b41280221e80b') in 0.032367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_d_front.png
+  artifactKey: Guid(daa57d91359fb554b8ec98b04e4ea008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_027_d_front.png using Guid(daa57d91359fb554b8ec98b04e4ea008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4b069dacf7bf6e0b4dc37975f71898') in 0.031971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_a_front.png
+  artifactKey: Guid(dff373b229881c346bc26d658faa3de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_a_front.png using Guid(dff373b229881c346bc26d658faa3de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba299b62e1328580fbe10e2ba1573d6') in 0.030896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_d_front.png
+  artifactKey: Guid(7bd9e068777c98447afe0c54f9f8a5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_d_front.png using Guid(7bd9e068777c98447afe0c54f9f8a5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0332dca6e27842f80a8218a20a1656a7') in 0.030766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_b_front.png
+  artifactKey: Guid(a5bebf9d5dd8e6540b04c69f0a4dc76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_b_front.png using Guid(a5bebf9d5dd8e6540b04c69f0a4dc76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717490b75ae855767c5906b52555d6da') in 0.028352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_c_back.png
+  artifactKey: Guid(b35cf4923cb45b746a592c0b970d93cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_023_c_back.png using Guid(b35cf4923cb45b746a592c0b970d93cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df12e90a68db968bf01bcdfeae618c4') in 0.030503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_028_a_front.png
+  artifactKey: Guid(1e7bae012a8a48c4a8cac4302d6c478e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_028_a_front.png using Guid(1e7bae012a8a48c4a8cac4302d6c478e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41bd49910a5c6de9877a51729595cf1') in 0.028248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_a_back.png
+  artifactKey: Guid(2773906aaa9e70f408458772a33835d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_a_back.png using Guid(2773906aaa9e70f408458772a33835d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b9a3efa7e6b6d9fedbd328fd079441') in 0.031288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_a_front.png
+  artifactKey: Guid(5eb25391bc5cb7149ad74cfd055254f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_a_front.png using Guid(5eb25391bc5cb7149ad74cfd055254f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4b8a2e56a82d287f7ffaed4f51df33') in 0.029780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_b_front.png
+  artifactKey: Guid(b20b3122c35d2e742a4860fccf297f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_b_front.png using Guid(b20b3122c35d2e742a4860fccf297f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e506a0e10e30e6f4c95305a82b7d75b5') in 0.032677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_c_front.png
+  artifactKey: Guid(9da3f56e88f9b8e4d9216bfd5eeb6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_030_c_front.png using Guid(9da3f56e88f9b8e4d9216bfd5eeb6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04014ff280ca615031e6ac5a54c8aae0') in 0.030391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_c_back.png
+  artifactKey: Guid(7f29fee9c3c5f0f40b5d4786bcd145c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_c_back.png using Guid(7f29fee9c3c5f0f40b5d4786bcd145c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd764778702425e987b9da23a13a67452') in 0.030087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_c_back.png
+  artifactKey: Guid(7e0975f228f0e9842b9db26139c9a136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_c_back.png using Guid(7e0975f228f0e9842b9db26139c9a136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a031783ea96f0ff2ab17420d4e91d0') in 0.030407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_b_back.png
+  artifactKey: Guid(c3308230bead7254cb13b2d0d1da73c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_b_back.png using Guid(c3308230bead7254cb13b2d0d1da73c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e9f85085cde642bce2819ee4b12f22') in 0.032483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_a_front.png
+  artifactKey: Guid(c0df20e239a9d4a4c875c2661c177960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_032_a_front.png using Guid(c0df20e239a9d4a4c875c2661c177960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327d8b7308c4c6be601d4e0e6434ef8a') in 0.030817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_c_back.png
+  artifactKey: Guid(92671bcf5161319498e2f098556f3148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_c_back.png using Guid(92671bcf5161319498e2f098556f3148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428eded74a194a25cfa07fb25d3135d6') in 0.031468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_a_back.png
+  artifactKey: Guid(0a79ccbb936385a418d6e7401479485a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_a_back.png using Guid(0a79ccbb936385a418d6e7401479485a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08504d4613b65d76dfac617baa87c84') in 0.027788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_d_front.png
+  artifactKey: Guid(3dd3a6da9ca6cee42913b33c0d8fcc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_d_front.png using Guid(3dd3a6da9ca6cee42913b33c0d8fcc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3e0b6989cf458065b82a68c021c2e5') in 0.029308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_b_back.png
+  artifactKey: Guid(bf2845f7161fe764193eb9019f266fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_025_b_back.png using Guid(bf2845f7161fe764193eb9019f266fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656c80a8fc128d69daf774688a6959cc') in 0.030234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_b_back.png
+  artifactKey: Guid(2b88f5a6f20dd544997079328c838a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_031_b_back.png using Guid(2b88f5a6f20dd544997079328c838a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af220445cdd26f85f8e64861e9b3f3af') in 0.029643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.405145 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_c_front.png
+  artifactKey: Guid(136b180b3d1cb6048a49716a94ce0b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_c_front.png using Guid(136b180b3d1cb6048a49716a94ce0b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33c4dd2447ca49f6ee263f2a6ba7edf') in 0.029732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_d_front.png
+  artifactKey: Guid(668e2987866a5d34e93dfc6e6e4f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_d_front.png using Guid(668e2987866a5d34e93dfc6e6e4f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eca8f51aad6497d0ff492ad10d9239e') in 0.029707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_b_back.png
+  artifactKey: Guid(5fcf36b1436ef61459c72fe80097c458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_b_back.png using Guid(5fcf36b1436ef61459c72fe80097c458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375fa92e2ef3f01b2e8e40c1a13e192f') in 0.029041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_b_front.png
+  artifactKey: Guid(879f4f4ab1ca6e0429613d612c502219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_b_front.png using Guid(879f4f4ab1ca6e0429613d612c502219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53038f8a9954645c864dd28cc6cb3c91') in 0.027303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_c_front.png
+  artifactKey: Guid(05c385d532f39a245b65597d22ba99d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_c_front.png using Guid(05c385d532f39a245b65597d22ba99d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5acc85da545ebbaf35a386c62b30507e') in 0.028926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_b_back.png
+  artifactKey: Guid(f7fc54d1d14cc8e4d9340d661bb953b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_b_back.png using Guid(f7fc54d1d14cc8e4d9340d661bb953b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee63052f38acae4276f5760fba5168a') in 0.028891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_a_back.png
+  artifactKey: Guid(f6af5beb56b28e24c9c242db9d3b7635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_a_back.png using Guid(f6af5beb56b28e24c9c242db9d3b7635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac74234a1bc04fbaee40d60817a7d441') in 0.027918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_c_front.png
+  artifactKey: Guid(8b64681c2d939a44dbad821e80242c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_c_front.png using Guid(8b64681c2d939a44dbad821e80242c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ef3654fdbb3312b9aef1e302b51592') in 0.035538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_a_front.png
+  artifactKey: Guid(522589ec612777946aed26a828b06c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_035_a_front.png using Guid(522589ec612777946aed26a828b06c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13ddb9cca2253bab9a5875a69bda3cc') in 0.029125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_a_front.png
+  artifactKey: Guid(34d70aec8b04ac84fa6b27fcb67ac65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_a_front.png using Guid(34d70aec8b04ac84fa6b27fcb67ac65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9c12c08bc91155354c8fa32c979aca') in 0.031997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_c_back.png
+  artifactKey: Guid(a032160083b77164e81fd4a5768b7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_c_back.png using Guid(a032160083b77164e81fd4a5768b7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168a7e5200b9bb2033399c59af2584ad') in 0.029939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_a_back.png
+  artifactKey: Guid(061538230a9fa6247be38fa9f83e8996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_a_back.png using Guid(061538230a9fa6247be38fa9f83e8996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecac0bc76c68f76df88a4e27103c9256') in 0.031038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_d_back.png
+  artifactKey: Guid(37900a0df2f4f6f4083c5a1e481be7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_d_back.png using Guid(37900a0df2f4f6f4083c5a1e481be7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4309edb033b55ebf6f46e3a976b59f0c') in 0.031466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_d_back.png
+  artifactKey: Guid(2f49404c74e6bb14b9d5003651b7cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_d_back.png using Guid(2f49404c74e6bb14b9d5003651b7cb4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2236415faf9d8fa82fd250d0fb240e76') in 0.032560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_b_back.png
+  artifactKey: Guid(63b05eb43dcd08a44a9614a14bc75038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_b_back.png using Guid(63b05eb43dcd08a44a9614a14bc75038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf4898f5545002c63f9bb0fbe417da5') in 0.030448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_d_front.png
+  artifactKey: Guid(3b1e9ab7013f3e04382266c6064b6a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_033_d_front.png using Guid(3b1e9ab7013f3e04382266c6064b6a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b76f5bb750e75c548bdcd533c190c0') in 0.032149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_c_front.png
+  artifactKey: Guid(0ef42a3a9d2663447a303b5b29095ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_034_c_front.png using Guid(0ef42a3a9d2663447a303b5b29095ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c12de78dc57ac5a9f0700162684dd8d') in 0.029153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_a_front.png
+  artifactKey: Guid(ab720fb9404520a4784ffe59f3645e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_a_front.png using Guid(ab720fb9404520a4784ffe59f3645e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '469aece9c9118eca25c3d1f4d5737917') in 0.032242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_a_back.png
+  artifactKey: Guid(b265c9cb38d046f44957d21cb33310e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_036_a_back.png using Guid(b265c9cb38d046f44957d21cb33310e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597f6696edf3b4efc4ad51d9c617d140') in 0.031759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_a_back.png
+  artifactKey: Guid(9e1892b7006145040abe5010f7c1e745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_037_a_back.png using Guid(9e1892b7006145040abe5010f7c1e745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f196efc398436b439faaa689f2b5b85') in 0.033249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_b_back.png
+  artifactKey: Guid(8c03f15c0cff2ed4c873e9a6253d24cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_b_back.png using Guid(8c03f15c0cff2ed4c873e9a6253d24cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b79bfdaf75f6efb7fb48b9a5dd03b9f') in 0.034075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_c_front.png
+  artifactKey: Guid(4ee8299489b251d4e949605ea0481035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_038_c_front.png using Guid(4ee8299489b251d4e949605ea0481035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8a26b65407cadae6c581279715d019') in 0.029018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.513597 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_b_front.png
+  artifactKey: Guid(43e47008f6f22b84db7d06e8ade3dd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_b_front.png using Guid(43e47008f6f22b84db7d06e8ade3dd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a41ec19627af0a5b3862d64bff1395') in 0.030085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_d_front.png
+  artifactKey: Guid(100583e66f5dd604db0629612737fec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_d_front.png using Guid(100583e66f5dd604db0629612737fec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3467dbdb70455e10b51ed4d40285b1') in 0.031166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_b_back.png
+  artifactKey: Guid(643d9cdd67e18bf41b71a67730ba104b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_b_back.png using Guid(643d9cdd67e18bf41b71a67730ba104b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbe31a584a6d959a7c947a5115f5b5d') in 0.027792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_a_back.png
+  artifactKey: Guid(466aae8e160ff7b40b78a396dc542fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_a_back.png using Guid(466aae8e160ff7b40b78a396dc542fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083e1a9d70aabb45ab10d1f89b46d038') in 0.029698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_c_front.png
+  artifactKey: Guid(4a339edfa8676cb448e5d504b3d963a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_039_c_front.png using Guid(4a339edfa8676cb448e5d504b3d963a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb953e86f62959ad9a52101bc1a193d') in 0.029124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_c_back.png
+  artifactKey: Guid(9021ad8f9682fac4ea13052d58b93d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Enemies Static/Mon_040_c_back.png using Guid(9021ad8f9682fac4ea13052d58b93d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77942af0bea4c3d088c2ce55bb9c266f') in 0.029310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.850651 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_027.png
+  artifactKey: Guid(5cf69d93dc6ba3548bc85b7b7667a20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_027.png using Guid(5cf69d93dc6ba3548bc85b7b7667a20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7b9fcf17fc6e51dc89bfbe02df77b9') in 0.079048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_121.png
+  artifactKey: Guid(1bc1f521cfaa96449a34bc56095c8e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_121.png using Guid(1bc1f521cfaa96449a34bc56095c8e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf07698aafd521a9a55802b9f126917a') in 0.090333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_108.png
+  artifactKey: Guid(cf0d494f27981dc42a451d26829ea463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_108.png using Guid(cf0d494f27981dc42a451d26829ea463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6607cb5f0aabbcaaad2477dd82cdb9') in 0.087187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_098.png
+  artifactKey: Guid(8a649555c53055a459e690c3c9ccfe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_098.png using Guid(8a649555c53055a459e690c3c9ccfe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94dd364b7e117ba1d3b9714a7e39d411') in 0.079832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_096.png
+  artifactKey: Guid(c493f2828adc16b42bf759b74b07e71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_096.png using Guid(c493f2828adc16b42bf759b74b07e71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a4792ceb108dcfebbbcd40cbd59c71') in 0.068946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_037.png
+  artifactKey: Guid(794f2fcd6287d9949bce1bd80870e362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_037.png using Guid(794f2fcd6287d9949bce1bd80870e362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98f926b40b51cf047052f16a7aac19e') in 0.068010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_109.png
+  artifactKey: Guid(37ef5e2dd4b1d0140ad0bf7b612635c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_109.png using Guid(37ef5e2dd4b1d0140ad0bf7b612635c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d14c3978b1cd118c95d9c0305b4b10b') in 0.068708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_060.png
+  artifactKey: Guid(8b4cd82c3d0321549ae0920638ab65ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_060.png using Guid(8b4cd82c3d0321549ae0920638ab65ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7c56a91aa940e183a30f50148a8b33') in 0.063834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_034.png
+  artifactKey: Guid(db50b2a3f4dc5484493d226894a82130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_034.png using Guid(db50b2a3f4dc5484493d226894a82130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e7f5a8ecc4faf446ab664e48cb21f5') in 0.062719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_107.png
+  artifactKey: Guid(c159a490ee1358a46be257661f8c5073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_107.png using Guid(c159a490ee1358a46be257661f8c5073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0af8d7b2f081bc5ba94b6e9a342776d') in 0.055696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_043.png
+  artifactKey: Guid(75c3057d1283fc443ac58d8f692004bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_043.png using Guid(75c3057d1283fc443ac58d8f692004bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922cb91715d6845dbc17bdb5ef39a1ea') in 0.058310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_085.png
+  artifactKey: Guid(99453678c070d79459fe5bc7d51efcdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_085.png using Guid(99453678c070d79459fe5bc7d51efcdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcbb705ba95387f3f3216d83cb2e07d') in 0.058812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_065.png
+  artifactKey: Guid(4bd8ba305ea133e4b99a16ea88601922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_065.png using Guid(4bd8ba305ea133e4b99a16ea88601922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1732388e56294622afb2931d4871f9ad') in 0.058893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_120.png
+  artifactKey: Guid(027c740a069bd634090fa0c5d6991e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_120.png using Guid(027c740a069bd634090fa0c5d6991e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94db302c7c9c063d14c007a27eb3391') in 0.055647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_074.png
+  artifactKey: Guid(332d5f261861c6b4cb97a4246bd39a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_074.png using Guid(332d5f261861c6b4cb97a4246bd39a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc59f907bc1aaff6f25b247ddf13d0da') in 0.061107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_078.png
+  artifactKey: Guid(11ecbe34dd3b30049814b83cf10aea23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_078.png using Guid(11ecbe34dd3b30049814b83cf10aea23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c824bf30a6a2069d55721f9b5932edf') in 0.058431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_082.png
+  artifactKey: Guid(06125069f467c9548adb3239cae625c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_082.png using Guid(06125069f467c9548adb3239cae625c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ebd35d7901c579f0b833252874c03f') in 0.059430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_112.png
+  artifactKey: Guid(ee1c0d32ab966384f8cca5575d0b9b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_112.png using Guid(ee1c0d32ab966384f8cca5575d0b9b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0bfe20160cc91511de5626511017ad') in 0.058051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_093.png
+  artifactKey: Guid(f7b9e3d3d4f80e440b170c96da500e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_093.png using Guid(f7b9e3d3d4f80e440b170c96da500e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a3fbf375e81ee872a5b49cd80da5d8') in 0.054614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_084.png
+  artifactKey: Guid(e418ece9eeaae2143bacc2540d2da5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_084.png using Guid(e418ece9eeaae2143bacc2540d2da5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d4813893f45700c1b4439afb66362a') in 0.052895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_095.png
+  artifactKey: Guid(374a6e9f470345347a3556b36d429517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_095.png using Guid(374a6e9f470345347a3556b36d429517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8b1e9f1b4e9e415fc150c05fc53c62') in 0.046963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_079.png
+  artifactKey: Guid(80667192b3ab7b94ea732d876309997e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_079.png using Guid(80667192b3ab7b94ea732d876309997e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d8c302c14ed2fcf77758f495666bf1') in 0.061499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_073.png
+  artifactKey: Guid(416cc50d9a321c54a8ea791d591c22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_073.png using Guid(416cc50d9a321c54a8ea791d591c22b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffa8e2c8beee1df457f4bbc25efb295') in 0.058100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_111.png
+  artifactKey: Guid(b8af0104f5216734e905e0080f0cfc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_111.png using Guid(b8af0104f5216734e905e0080f0cfc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59745951b094e3306610205954741b6') in 0.063206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_032.png
+  artifactKey: Guid(4fdf1f7983639784986d91d027c01a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_032.png using Guid(4fdf1f7983639784986d91d027c01a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdccd1375ca265853106c2523c52c9ba') in 0.064190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_088.png
+  artifactKey: Guid(6d3047281ef378e48a58390b7ee3fe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_088.png using Guid(6d3047281ef378e48a58390b7ee3fe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49f99450fea7de2d24ce06eeb1d81f4') in 0.059539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_051.png
+  artifactKey: Guid(c634da74a7252f641b4f750a5e66d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_051.png using Guid(c634da74a7252f641b4f750a5e66d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d568e92932d47a557f055196442925f') in 0.059658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_069.png
+  artifactKey: Guid(76656d489fc180740abf39a8514f3869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_069.png using Guid(76656d489fc180740abf39a8514f3869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804186b066880f3857b4e9f4e339ba19') in 0.057544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_105.png
+  artifactKey: Guid(c414ee83da8554d4ab3ce84db5ba05b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_105.png using Guid(c414ee83da8554d4ab3ce84db5ba05b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecdf32f6f74a4bbf5bb165c00fb92529') in 0.063802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_087.png
+  artifactKey: Guid(e9b25ebbb70bfc84f8b167d661cb9ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_087.png using Guid(e9b25ebbb70bfc84f8b167d661cb9ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d74f8a38db55ca24137993ca554557') in 0.055130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_041.png
+  artifactKey: Guid(a878b1305b83c1c45be9222c1261e38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_041.png using Guid(a878b1305b83c1c45be9222c1261e38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2644e152a5bcd38bfb934473e24f3af9') in 0.059067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_045.png
+  artifactKey: Guid(4e5820cbecf75f244b3da1c0ff2e46f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_045.png using Guid(4e5820cbecf75f244b3da1c0ff2e46f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cc890a631ac0ffbaa1ac1d98759e62') in 0.056878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_036.png
+  artifactKey: Guid(ffe52c5eafd4ecc4a98b6e2539f0b701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_036.png using Guid(ffe52c5eafd4ecc4a98b6e2539f0b701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a1b681d73d5812ee420d1149573abf') in 0.056890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_066.png
+  artifactKey: Guid(d8ab1194b44ced94e856e870b4c69409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_066.png using Guid(d8ab1194b44ced94e856e870b4c69409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514ceb520509d33ad81acd1f0bbedcd3') in 0.054700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_049.png
+  artifactKey: Guid(53cf03a7903002e42a3fa58b50b9a93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_049.png using Guid(53cf03a7903002e42a3fa58b50b9a93b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd152c9a1c7bf0d0d05cd0e5c3d91a0b1') in 0.063094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_059.png
+  artifactKey: Guid(9e1d0dceaa10fa449a107f198aced3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_059.png using Guid(9e1d0dceaa10fa449a107f198aced3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdf49e5432a214695ec6f8ed2f2927e') in 0.060635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_118.png
+  artifactKey: Guid(bacbcb644a570934fb037a95f69b9d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_118.png using Guid(bacbcb644a570934fb037a95f69b9d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa2052a7e2f5b4ba031adfc23d82398') in 0.063560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_030.png
+  artifactKey: Guid(53f9a0a0e599f304ab12850027c117ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_030.png using Guid(53f9a0a0e599f304ab12850027c117ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5f73d927c0995a5acff996432f73ec') in 0.057878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_031.png
+  artifactKey: Guid(610666ad4a691274e974795222aa16b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_031.png using Guid(610666ad4a691274e974795222aa16b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b3410ed5aa150c736ea0cbbf017d32') in 0.058086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_055.png
+  artifactKey: Guid(e02af782a569fdd4ead5baf775baa830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_055.png using Guid(e02af782a569fdd4ead5baf775baa830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c2ee080bb4730807f4b4d665bddcdf') in 0.059158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_067.png
+  artifactKey: Guid(529bfaa1e1cd71a4b9038a71b643e4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_067.png using Guid(529bfaa1e1cd71a4b9038a71b643e4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2cc909fbadabd5e4a1b271aeda2192') in 0.057169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_086.png
+  artifactKey: Guid(e2ed96fc3cc22134eaf83a5b96da331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_086.png using Guid(e2ed96fc3cc22134eaf83a5b96da331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d2958f0d68ac035666d6ca798a52b3') in 0.067080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_070.png
+  artifactKey: Guid(c77e695ef89d36c47a638aacdee556da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_070.png using Guid(c77e695ef89d36c47a638aacdee556da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593d1e8b991be1e7d7342986fc5673e0') in 0.055983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_054.png
+  artifactKey: Guid(b67eefdd6cce4b54dae2b91b49fc76fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_054.png using Guid(b67eefdd6cce4b54dae2b91b49fc76fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb69d3f2d6787bb224ae0ff6e834da5e') in 0.064214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_053.png
+  artifactKey: Guid(1aeb01a7dbc139a43a0287aa3528e576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_053.png using Guid(1aeb01a7dbc139a43a0287aa3528e576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996ae148e20952846f0f73739b1d4824') in 0.060553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_116.png
+  artifactKey: Guid(5e866cee4a2a23b40bc06656cd3726db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_116.png using Guid(5e866cee4a2a23b40bc06656cd3726db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57ccd79d1751f9172ca1e5c82f740c0') in 0.062956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_075.png
+  artifactKey: Guid(6730911ce6fb4f94ab8206341a04fa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_075.png using Guid(6730911ce6fb4f94ab8206341a04fa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4773b46b83b5a8949a5ce2f4c5999825') in 0.058199 seconds 

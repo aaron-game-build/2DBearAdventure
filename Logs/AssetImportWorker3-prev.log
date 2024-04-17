@@ -1,0 +1,392 @@
+Using pre-set license
+Built from 'HEAD' branch; Version is '2021.3.15f1c1 (080beb55ecda) revision 527339'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 49100 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Unity\Editor\2021.3.15f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+F:/Unity/2DBearAdventure
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52800
+Successfully changed project path to: F:/Unity/2DBearAdventure
+F:/Unity/2DBearAdventure
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [46332] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 1171855130 [EditorId] 1171855130 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [46332] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 1171855130 [EditorId] 1171855130 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 112.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1c1 (080beb55ecda)
+[Subsystems] Discovering subsystems at path E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity/2DBearAdventure/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8003 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/Editor/2021.3.15f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003014 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 114.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.609 seconds
+Domain Reload Profiling:
+	ReloadAssembly (610ms)
+		BeginReloadAssembly (69ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (443ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (93ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (114ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (112ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010883 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 111.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.319 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1320ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (1102ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (291ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (601ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (112ms)
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (269ms)
+				ProcessInitializeOnLoadMethodAttributes (82ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.44 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5766 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 74 unused Assets / (2.2 MB). Loaded Objects now: 6200.
+Memory consumption went from 226.8 MB to 224.6 MB.
+Total: 4.560900 ms (FindLiveObjects: 0.603100 ms CreateObjectMapping: 0.157100 ms MarkObjects: 3.106700 ms  DeleteObjects: 0.692700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 302697.707659 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Boss_Cloud_04.png
+  artifactKey: Guid(49481af7a7716f243a96cea474083fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Boss_Cloud_04.png using Guid(49481af7a7716f243a96cea474083fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aebc338f1e67ef20541759404de5714') in 0.125014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Day_Cloud_02.png
+  artifactKey: Guid(4fe2be90a75985046a39f1d506b7fca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Day_Cloud_02.png using Guid(4fe2be90a75985046a39f1d506b7fca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a709eb9aff1e4f6e5b9175b1715c5c') in 0.029245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_03.png
+  artifactKey: Guid(acb4d0823132f0149b7bd0c6c9e4fa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_03.png using Guid(acb4d0823132f0149b7bd0c6c9e4fa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aafa49b094cc8209d48fa130112654f3') in 0.026635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_05.png
+  artifactKey: Guid(8f17e008526950e43a5b629caf144e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_05.png using Guid(8f17e008526950e43a5b629caf144e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28f3dd8856a6b8749505a42c15d5f2bd') in 0.031551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Day_Cloud_03.png
+  artifactKey: Guid(b04c3921b02b329408f81c6eba5b7198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Day_Cloud_03.png using Guid(b04c3921b02b329408f81c6eba5b7198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f344153462129c30b9c7203796d5bfa') in 0.019410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunrise_Cloud_04.png
+  artifactKey: Guid(3802a7cd0322d8e47be99043ef95e804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunrise_Cloud_04.png using Guid(3802a7cd0322d8e47be99043ef95e804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d95d31fed7cbec2364743317d53d87') in 0.023893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Boss_Cloud_05.png
+  artifactKey: Guid(f9fed853b6ebb814e9010170d0ad38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Boss_Cloud_05.png using Guid(f9fed853b6ebb814e9010170d0ad38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b25b9fccf1783b2cda391fb9c8490c') in 0.026470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_02.png
+  artifactKey: Guid(9ba132b164f715440bb0dc96c2893d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Sunset_Cloud_02.png using Guid(9ba132b164f715440bb0dc96c2893d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06444353f3ae159e0a0331ebb6c76cd') in 0.029806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Night_Cloud_04.png
+  artifactKey: Guid(29e73a685f723f2428918954d90a4a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Clouds Sun Moon/Night_Cloud_04.png using Guid(29e73a685f723f2428918954d90a4a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb82c629fb11e84a32d9169c0921d207') in 0.022550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.235972 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Boss_Sky.png
+  artifactKey: Guid(e44ea3173eba99f47a7f29f1136c9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Boss_Sky.png using Guid(e44ea3173eba99f47a7f29f1136c9dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b808f84c084f6d41948ea8e7eddbd1fa') in 0.146082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Rain_Mountains_01.png
+  artifactKey: Guid(58c3580a3b9783044b543822a9e38145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Rain_Mountains_01.png using Guid(58c3580a3b9783044b543822a9e38145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bcab3ae2d6d8b20fae7c8da0cf28f83') in 0.075051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Day_Sky.png
+  artifactKey: Guid(93f90b59e5ce94a41aa5a607646b8f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Day_Sky.png using Guid(93f90b59e5ce94a41aa5a607646b8f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e977571698137102cfb268a5ee1cbe2') in 0.099722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Mountains_02.png
+  artifactKey: Guid(2edc30c235bec764ead90d24643ecab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Mountains_02.png using Guid(2edc30c235bec764ead90d24643ecab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6815ada392b88ba18bae618f01ecee') in 0.064127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Sunset_Mountains_02.png
+  artifactKey: Guid(f1c46519b428d714f878d6b7a5ff7320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Sunset_Mountains_02.png using Guid(f1c46519b428d714f878d6b7a5ff7320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3935183b22d6634c909a2194374b07d7') in 0.061331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Trees_01.png
+  artifactKey: Guid(87d1becc6f607e8499310cc23fd55500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Trees_01.png using Guid(87d1becc6f607e8499310cc23fd55500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8874390d4b2f17e0e6dc2391e476967e') in 0.039049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Day_Trees_02.png
+  artifactKey: Guid(585ba7b357733454daee08210d63afe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Day_Trees_02.png using Guid(585ba7b357733454daee08210d63afe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c99c46952948da78033cf0e379095bd') in 0.054100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Single Images/Rain.png
+  artifactKey: Guid(8ab744898013d5e4ca6763fe9671b5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Single Images/Rain.png using Guid(8ab744898013d5e4ca6763fe9671b5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2ad96cefdb76b64396641c55ecc129') in 0.113264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Single Images/Night.png
+  artifactKey: Guid(84e1af21d418a674c818a6782cc6c663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Single Images/Night.png using Guid(84e1af21d418a674c818a6782cc6c663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5891760dbea80c194bc0e26f8614018a') in 0.116662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Boss_Trees_01.png
+  artifactKey: Guid(b2245d7a055da464c9dc8131cf83b43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Boss_Trees_01.png using Guid(b2245d7a055da464c9dc8131cf83b43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1d1c6e7d8bd35650079c55bde2614f') in 0.051399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Sky.png
+  artifactKey: Guid(95e83938068315d4293a70e166a7c9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Paralaxes/Night_Sky.png using Guid(95e83938068315d4293a70e166a7c9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a636c9e8d5512e6511caddb80618ba') in 0.097099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.728906 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Day_part_04.png
+  artifactKey: Guid(18263560f8997364fa17a5d533b9f0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Day_part_04.png using Guid(18263560f8997364fa17a5d533b9f0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe8bea1ee626a0d5d5bbfe6d01aa8945') in 0.136432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Rain_part_03.png
+  artifactKey: Guid(026301dd3c098d04d8b00d5864df5485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Rain_part_03.png using Guid(026301dd3c098d04d8b00d5864df5485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fa277c38e5363d3a69cfb176c80ac1') in 0.094877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Sunrise_part_03.png
+  artifactKey: Guid(cd275f63a12920c4795c711f614dab65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Sunrise_part_03.png using Guid(cd275f63a12920c4795c711f614dab65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5686f0193f1c486b925eba923d2ad29c') in 0.109537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Night_part_04.png
+  artifactKey: Guid(254acfeb15cea464eaf4005f8d544d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Night_part_04.png using Guid(254acfeb15cea464eaf4005f8d544d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f1826d14759cf83ac576a6862aacb0') in 0.096464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Sunset_part_04.png
+  artifactKey: Guid(58d546f742038cd499fe20d200bccca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Sunset_part_04.png using Guid(58d546f742038cd499fe20d200bccca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8473baf972645cc8fb331c1675b4950') in 0.097023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Day_part_05.png
+  artifactKey: Guid(a8c9f3d950636c54d91b8d44a1946015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Day_part_05.png using Guid(a8c9f3d950636c54d91b8d44a1946015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7272270ac455ce74ca1fa06a3ddeb7b') in 0.114201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Final Boss_part_01.png
+  artifactKey: Guid(70e9c20db79a21d4da5718e20640ae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Final Boss_part_01.png using Guid(70e9c20db79a21d4da5718e20640ae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ac86b01ee7fbe9ff174b7d16b1ffc2') in 0.100298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Rain_part_04.png
+  artifactKey: Guid(bceb6d970abbb0f4a8963915f5d9528c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Tiling Backgrounds Pack - 6 Moods/Textures/Sliced Tiling Backgrounds/Rain_part_04.png using Guid(bceb6d970abbb0f4a8963915f5d9528c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ae454584823c76bcea108945ca14d7') in 0.093850 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015228 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1360ms)
+		BeginReloadAssembly (179ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (71ms)
+		EndReloadAssembly (1071ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (310ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (532ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (295ms)
+				ProcessInitializeOnLoadMethodAttributes (93ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5664 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 49 unused Assets / (2.2 MB). Loaded Objects now: 6258.
+Memory consumption went from 220.9 MB to 218.8 MB.
+Total: 8.040200 ms (FindLiveObjects: 1.095300 ms CreateObjectMapping: 0.210400 ms MarkObjects: 5.382700 ms  DeleteObjects: 1.349800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
