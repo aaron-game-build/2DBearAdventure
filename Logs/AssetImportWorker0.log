@@ -1790,3 +1790,787 @@ Received Import Request.
   path: Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_104.png
   artifactKey: Guid(7b9a6065b649b7a44bfd07a3e3ce58aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Characters/Character_104.png using Guid(7b9a6065b649b7a44bfd07a3e3ce58aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5699d1d35d8c3ac8b0a59be410aace9') in 0.057605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81973.633818 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_002.png
+  artifactKey: Guid(d5622c064a660f24a87b8dca73727bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_002.png using Guid(d5622c064a660f24a87b8dca73727bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012adbf8dfb720cc91335c9af02fe118') in 0.098956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_019.png
+  artifactKey: Guid(028e2eb9fc41a0e4ca74fa78ce070ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_019.png using Guid(028e2eb9fc41a0e4ca74fa78ce070ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb56371ffc45171f406bb65cbd82275c') in 0.068223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_015.png
+  artifactKey: Guid(d18178aaad531b64cbc74d6daf1c46e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_015.png using Guid(d18178aaad531b64cbc74d6daf1c46e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91db72a142673aaa0c363e37b55c5bdd') in 0.056712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_009.png
+  artifactKey: Guid(829bd61862c361a4db6381a671de064e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_009.png using Guid(829bd61862c361a4db6381a671de064e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78e3152bd29eb2be970878c72407659') in 0.061680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_017.png
+  artifactKey: Guid(0ebc6af601837154f8cddcfe65b63031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_017.png using Guid(0ebc6af601837154f8cddcfe65b63031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3977e54fe2e621395cfa3c076a19f63') in 0.052810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_062.png
+  artifactKey: Guid(dbff15b24a3378147a65b43f79b3e26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_062.png using Guid(dbff15b24a3378147a65b43f79b3e26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3100bc41fe210a12043e8ad1223131f2') in 0.051366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_028.png
+  artifactKey: Guid(3515809c2a687f7498ceae06538a97cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_028.png using Guid(3515809c2a687f7498ceae06538a97cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb7539b1e03b2de7a897ee590ec6f8d') in 0.055553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_006.png
+  artifactKey: Guid(c612833f660517a4e9b6a0e4184578e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_006.png using Guid(c612833f660517a4e9b6a0e4184578e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2471593ee6fd71048c7a0a6f265cd750') in 0.050574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_039.png
+  artifactKey: Guid(c63b18cd25169f142979b5419c2e6023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_039.png using Guid(c63b18cd25169f142979b5419c2e6023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03363ab387f9797c5db1764c33d74707') in 0.052594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_054.png
+  artifactKey: Guid(fb7aef13f83ecb24f951cd6484007736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_054.png using Guid(fb7aef13f83ecb24f951cd6484007736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438b3afc36bdc29aba95dd23c992501b') in 0.045012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_040.png
+  artifactKey: Guid(f825f8dc448661a488b2363fb9781fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_040.png using Guid(f825f8dc448661a488b2363fb9781fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600f53530dad7539387fb2548bfd6483') in 0.048948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_020.png
+  artifactKey: Guid(6f80b70bb91be1645b0f00cd8e377855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_020.png using Guid(6f80b70bb91be1645b0f00cd8e377855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c266f94597d8afa57a775da2d8d6732c') in 0.052151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_020.png
+  artifactKey: Guid(ae1a8e3a17c92524db3b56a8180aba82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_020.png using Guid(ae1a8e3a17c92524db3b56a8180aba82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3cc4d42b86549d47d0a95fd00bbe7da') in 0.051928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_021.png
+  artifactKey: Guid(5ff0983506f2cb54ebd24d3d22b941d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_021.png using Guid(5ff0983506f2cb54ebd24d3d22b941d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f6f820ec87582c5a118287eb7716bd') in 0.049281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_019.png
+  artifactKey: Guid(e1884b12742a988498eec3106e6e66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_019.png using Guid(e1884b12742a988498eec3106e6e66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4187c848ece1647e8dd67b7bc7b9135') in 0.048391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_011.png
+  artifactKey: Guid(bf50ae649c8e761468e9920e2488dc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_011.png using Guid(bf50ae649c8e761468e9920e2488dc3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b0c88ebbe58faccee3eb3c319b1617') in 0.048368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_013.png
+  artifactKey: Guid(14b8edd87b7329942a59287735e9fcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_013.png using Guid(14b8edd87b7329942a59287735e9fcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e2a8bdc295300334be7d0df0d07e1c') in 0.047025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_001.png
+  artifactKey: Guid(1cc796fd70e86bb4a9a5707ce49265c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_001.png using Guid(1cc796fd70e86bb4a9a5707ce49265c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d041e4418a718eff8d7d80d7d34f0c') in 0.047809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_014.png
+  artifactKey: Guid(6d864d7c45db90746a18c19aac57483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_014.png using Guid(6d864d7c45db90746a18c19aac57483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76edd33484ade2e09e24e29c06f3b84') in 0.058835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_009.png
+  artifactKey: Guid(8f3d2f3c36fdc1246b75c75056efd9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_009.png using Guid(8f3d2f3c36fdc1246b75c75056efd9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083351a39b8f621a5b4a2e6dc455af6f') in 0.050645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_042.png
+  artifactKey: Guid(2cd0d80e3957fde4f9ae709e20fae0f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_042.png using Guid(2cd0d80e3957fde4f9ae709e20fae0f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb89f5975569efdd1b78edd5f92e3e9') in 0.049994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_030.png
+  artifactKey: Guid(3095eea2687f5f449adb8c8978950ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_030.png using Guid(3095eea2687f5f449adb8c8978950ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b77ddce8389c168878bdbee5add014') in 0.051646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_058.png
+  artifactKey: Guid(cc26fa39e3c87f54ba9dc3e7fc011a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_058.png using Guid(cc26fa39e3c87f54ba9dc3e7fc011a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47287c802a8a12cc88a279e80827db6') in 0.052723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_042.png
+  artifactKey: Guid(c1783ee498d0b1a41bef6689c11aa711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_042.png using Guid(c1783ee498d0b1a41bef6689c11aa711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95d55b2e8652327fdf4e3ebccaa21b1') in 0.053756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_046.png
+  artifactKey: Guid(96a1988649aa5034bae00f66c18d4edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_046.png using Guid(96a1988649aa5034bae00f66c18d4edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b22290e6c683c1e993ae93d37fb031') in 0.049761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_034.png
+  artifactKey: Guid(4b4deb362dd4e9d438cf3653086efdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_034.png using Guid(4b4deb362dd4e9d438cf3653086efdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8ea7a9076b4fd64d2500b3e6cf15b4') in 0.052271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_048.png
+  artifactKey: Guid(1883db381a393964b991bc85310d9fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_048.png using Guid(1883db381a393964b991bc85310d9fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7360810e2a46f9a2b716603820c775') in 0.053802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_018.png
+  artifactKey: Guid(a1a2a84826d8ec1468dbd0dde97238e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_018.png using Guid(a1a2a84826d8ec1468dbd0dde97238e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29eefad4762c58689d64035e078f621e') in 0.054244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_005.png
+  artifactKey: Guid(1b94d75b36802b249bbe0c74e0d347d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_005.png using Guid(1b94d75b36802b249bbe0c74e0d347d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25d3a032838d0e71ee05f6de902631f') in 0.070550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_029.png
+  artifactKey: Guid(6ca1ff6586fd53b49a49a7fb6ffb44ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_029.png using Guid(6ca1ff6586fd53b49a49a7fb6ffb44ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90818f4fa04dd91fdde952b6401a2db') in 0.052101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_051.png
+  artifactKey: Guid(72a5fa8ddeb9a464b867675c41e84021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_051.png using Guid(72a5fa8ddeb9a464b867675c41e84021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0e03bfc8c3c6d130f200fb728f4e13') in 0.058089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_045.png
+  artifactKey: Guid(3090d033e1d853e4bb5eed668d5d41df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_045.png using Guid(3090d033e1d853e4bb5eed668d5d41df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c18b298f2e42b68d75d6b416a7572bd') in 0.054929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_055.png
+  artifactKey: Guid(4be161401c10c0c4bb7dbd499e03fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_055.png using Guid(4be161401c10c0c4bb7dbd499e03fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a6b929d217b2603856f3070c3ebb86') in 0.051644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_023.png
+  artifactKey: Guid(2376a1bc305a4304f8db538e578ca096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_023.png using Guid(2376a1bc305a4304f8db538e578ca096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd200eb17ae2bdc5d8e040afb785368d') in 0.047918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_047.png
+  artifactKey: Guid(f75393edeb196844e974e4be531aab06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_047.png using Guid(f75393edeb196844e974e4be531aab06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6fbcbc041c4f4348efe9f84e95db51e') in 0.046623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_036.png
+  artifactKey: Guid(4686f4ca3e9ae2f48a5885f467b35ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_036.png using Guid(4686f4ca3e9ae2f48a5885f467b35ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ff5156747ceb6f4cdcaade6f851ec5') in 0.048013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_022.png
+  artifactKey: Guid(6e732b90738345f44be25e06fef68ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_022.png using Guid(6e732b90738345f44be25e06fef68ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43467db562113f0160b6afc1cc027285') in 0.049595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_024.png
+  artifactKey: Guid(d0be7c412102e0243afec0996d0e127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_024.png using Guid(d0be7c412102e0243afec0996d0e127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc6d2c03879a2378315df2740921839') in 0.055611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_026.png
+  artifactKey: Guid(5261f50d2d1045748ae770065c2e540d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_026.png using Guid(5261f50d2d1045748ae770065c2e540d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30eab0d4d7e5c22bdd26e4bb77cf05c0') in 0.054479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_038.png
+  artifactKey: Guid(24df48fddfa2b0543b8ca1776cf2cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_038.png using Guid(24df48fddfa2b0543b8ca1776cf2cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5aed468cfbbcd4e96c8951ef52f23ef') in 0.068552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_002.png
+  artifactKey: Guid(7a0b38754c8082047a31e88033e96c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_002.png using Guid(7a0b38754c8082047a31e88033e96c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0b1d1e0af58c736c3c30cfc9a0a277') in 0.063249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_059.png
+  artifactKey: Guid(022f760cf2f56454bb5b12b168a213e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_059.png using Guid(022f760cf2f56454bb5b12b168a213e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8dfa8e722b8bcfd2c1a2abafbe340f') in 0.053163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_032.png
+  artifactKey: Guid(30756b2f590b5364e910d5e2752d687d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_032.png using Guid(30756b2f590b5364e910d5e2752d687d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2e5120f640b0393a3e7cc5315ef006') in 0.055221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_061.png
+  artifactKey: Guid(3338a67465c78964c840f60f43a4d28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_061.png using Guid(3338a67465c78964c840f60f43a4d28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0296f4fa3def3619db297543f4f271') in 0.054514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_023.png
+  artifactKey: Guid(7ed87d752ed4dc144b0f2cf7e0fb5eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_023.png using Guid(7ed87d752ed4dc144b0f2cf7e0fb5eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67030b935c2b2efd332ae72d3847f7a') in 0.055000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_060.png
+  artifactKey: Guid(34c5f21625e38c642bc66e63702552f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_060.png using Guid(34c5f21625e38c642bc66e63702552f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519c585595b3077ee90c1fba16ccebc8') in 0.056250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_012.png
+  artifactKey: Guid(ff482297378cb0149bbe1b4315844b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_012.png using Guid(ff482297378cb0149bbe1b4315844b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81f7a64d7d266ff72a665ed4618af4b') in 0.052462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_022.png
+  artifactKey: Guid(deea8ec179287294489d914ee1bb606b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_022.png using Guid(deea8ec179287294489d914ee1bb606b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8347ca561ca395c606abb126ddd6ee') in 0.051548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_052.png
+  artifactKey: Guid(92891e569bf61d54eac9d2bc93bf1776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_052.png using Guid(92891e569bf61d54eac9d2bc93bf1776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f955321450c26b345ccc7b283f59e455') in 0.050140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_043.png
+  artifactKey: Guid(296b99d8a8c0b2641a2a317db4826ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_043.png using Guid(296b99d8a8c0b2641a2a317db4826ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766ea49468a12045c3605ac27b45a7ed') in 0.051439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_014.png
+  artifactKey: Guid(2b8dc875f357423419ca4d604cc8ba81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_014.png using Guid(2b8dc875f357423419ca4d604cc8ba81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1510e01561ae34d0605b23cf74ac983b') in 0.075014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_013.png
+  artifactKey: Guid(962736c05976e434cbce80ee1c7ceffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_013.png using Guid(962736c05976e434cbce80ee1c7ceffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8e8d45410f44722757cc816d3f188f') in 0.057209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_028.png
+  artifactKey: Guid(34e41d2f3050e4343a0932cc9724a4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Enemy_028.png using Guid(34e41d2f3050e4343a0932cc9724a4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd309bb654b05f6fa6ed870a9da8b8d47') in 0.049267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_008.png
+  artifactKey: Guid(28c9fb70a02453749acd64c954ebc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/Sprites/Enemies/Boss_008.png using Guid(28c9fb70a02453749acd64c954ebc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5cf79fe7d6b626e8ab4cc5e6bd16df') in 0.055171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.079174 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 2.png
+  artifactKey: Guid(5fa386acab4e6d244afef19a7d1ce535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 2.png using Guid(5fa386acab4e6d244afef19a7d1ce535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1e5e4781b1ed82c17014fbaf4e7e90') in 0.044077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 11.png
+  artifactKey: Guid(3382fd7e4b05c5e46a935a696fec3266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 11.png using Guid(3382fd7e4b05c5e46a935a696fec3266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e37acb75b0669baf3e9d88ad03c912') in 0.036228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 16.png
+  artifactKey: Guid(7aa0d1fc3e182c34b9eb6253bfc49e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 16.png using Guid(7aa0d1fc3e182c34b9eb6253bfc49e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60cf6690b5fb04799c58b99e2dd644d') in 0.038274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 9.png
+  artifactKey: Guid(c118a8e561db7aa45959e209b439259e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 9.png using Guid(c118a8e561db7aa45959e209b439259e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875aa3b7d980cbd98936a359b30cef03') in 0.040087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 7.png
+  artifactKey: Guid(4e3fc7326a72c8147b3cc48d518b3fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 7.png using Guid(4e3fc7326a72c8147b3cc48d518b3fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f32005e9b8111a7b4e05cf72315bfd') in 0.035771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 17.png
+  artifactKey: Guid(dbcaeda0edd0ed9498e16c331126c192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 17.png using Guid(dbcaeda0edd0ed9498e16c331126c192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c89c608990c528f72aaada4526ace6f') in 0.036118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 14.png
+  artifactKey: Guid(211f14ec622be5e46b29c682d49a48ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 14.png using Guid(211f14ec622be5e46b29c682d49a48ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7daeb3d15fb44ef1d438bff122c7adc8') in 0.036094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 18.png
+  artifactKey: Guid(abd0e4beedabb1f4699ebe709f7949ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 18.png using Guid(abd0e4beedabb1f4699ebe709f7949ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0f1b0df9c3694386a16e76ee4cf70d') in 0.035797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 5.png
+  artifactKey: Guid(58492f34846e9104d83b8f86f05c62bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland/UI/Menu/Buttons 01/Menu Buttons 5.png using Guid(58492f34846e9104d83b8f86f05c62bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8bfdd664a6d43023f5b6efbe03dccd') in 0.037149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.668852 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_1.asset
+  artifactKey: Guid(d1112155964b5974598a0a7570166aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_1.asset using Guid(d1112155964b5974598a0a7570166aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57763da3403ad043d3682b016c96654d') in 0.039509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_6.asset
+  artifactKey: Guid(cc42dc601184aff49ae0b7009254615d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_6.asset using Guid(cc42dc601184aff49ae0b7009254615d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed21de04a0076ec3e8c23d6a103e1c4') in 0.020257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_10.asset
+  artifactKey: Guid(b7b2e1619aba520428c2e76376f48b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_10.asset using Guid(b7b2e1619aba520428c2e76376f48b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fed2162a49408945c91d2ff184e215') in 0.021005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_2.asset
+  artifactKey: Guid(c34c0fc7bbb72d242b6f5422ff3f7404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_2.asset using Guid(c34c0fc7bbb72d242b6f5422ff3f7404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b294b474784007aa999fd89654ef65ef') in 0.028947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_18.asset
+  artifactKey: Guid(e65eba2026a9508498dfa0dc6285b9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_18.asset using Guid(e65eba2026a9508498dfa0dc6285b9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935709c4af5ea4309fdb985a477f9c44') in 0.020460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_24.asset
+  artifactKey: Guid(bae36d64a2eebb846805de429abd6795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_24.asset using Guid(bae36d64a2eebb846805de429abd6795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13b6c9149432ba761704613b5f195b0') in 0.020430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_30.asset
+  artifactKey: Guid(ade9368bf6f08fb42926c2b983018640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_30.asset using Guid(ade9368bf6f08fb42926c2b983018640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147ade6381fdd04437946735a35730b0') in 0.021608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_33.asset
+  artifactKey: Guid(0e8c3dd8fe0128c4a8b7193cdc2bac45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_33.asset using Guid(0e8c3dd8fe0128c4a8b7193cdc2bac45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52592177867acd8c9ec4db70dfb0345d') in 0.021830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_38.asset
+  artifactKey: Guid(8af6ee7bb9cef7342aa35410b304099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_38.asset using Guid(8af6ee7bb9cef7342aa35410b304099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a843da0bc4d9ca275bfbaa8260255fbd') in 0.023479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_34.asset
+  artifactKey: Guid(86a2c8617ff39a142bd93395b4987178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_34.asset using Guid(86a2c8617ff39a142bd93395b4987178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c3c13e2eb19e75b7e594ab5b8f0c4d') in 0.018461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_46.asset
+  artifactKey: Guid(2a765db786e773742b3ac0dae83d878d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_46.asset using Guid(2a765db786e773742b3ac0dae83d878d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd1cea574ed9a50f219e999221bfe03') in 0.015866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_57.asset
+  artifactKey: Guid(62e05e724723f5d46bf0f5d8c7d182a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_57.asset using Guid(62e05e724723f5d46bf0f5d8c7d182a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb66c14f161b204a925fc805f43ed94d') in 0.016958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_60.asset
+  artifactKey: Guid(61b0b52127444a242a42ad15c102c95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_60.asset using Guid(61b0b52127444a242a42ad15c102c95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4411f42f6bd674bb2bebe85d66969600') in 0.019466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_68.asset
+  artifactKey: Guid(558062622d4ab71489f78f2a239935c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_68.asset using Guid(558062622d4ab71489f78f2a239935c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c552e20653a19ab94bdbd4f8a0789b4b') in 0.019335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_63.asset
+  artifactKey: Guid(e6b1c38b6f7f2f64ab68c5a2252ea162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_63.asset using Guid(e6b1c38b6f7f2f64ab68c5a2252ea162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454d31ed82beb43547c8d51de5624644') in 0.017003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_75.asset
+  artifactKey: Guid(575c1b09015350341bea099ba437d06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_75.asset using Guid(575c1b09015350341bea099ba437d06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fc56a61bc80b788d8bba1613d36d8a') in 0.014805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_64.asset
+  artifactKey: Guid(0c6736636a837c4428bc996c6a490f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_64.asset using Guid(0c6736636a837c4428bc996c6a490f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdb0508801318d03acb850a2aaa1119') in 0.020501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_45.asset
+  artifactKey: Guid(5a6608c5de255cd4fac271ef72b12038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_45.asset using Guid(5a6608c5de255cd4fac271ef72b12038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9aca5d5889058c8ac43da070f4093a') in 0.017670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_92.asset
+  artifactKey: Guid(17d36ad93b910ae4b9b8c0d0a54037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_92.asset using Guid(17d36ad93b910ae4b9b8c0d0a54037db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946d22594e86cddb1e331d1f58b0a589') in 0.015828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_23.asset
+  artifactKey: Guid(55d4153c257e90447a66858b3a40f692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_23.asset using Guid(55d4153c257e90447a66858b3a40f692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17a609b14737f046a730aaf4f26bbea') in 0.017643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_103.asset
+  artifactKey: Guid(c37e35f3b020716428f2983711d7eaef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_103.asset using Guid(c37e35f3b020716428f2983711d7eaef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2498db38c833bd88aca49576fbefeb70') in 0.018007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_108.asset
+  artifactKey: Guid(5030ccf0a8c2ca941bd2695aaf5c0e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_108.asset using Guid(5030ccf0a8c2ca941bd2695aaf5c0e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b056335076ffe41c405a8a789b265856') in 0.015906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_112.asset
+  artifactKey: Guid(b715a9b96dd69ed499b3b7af3c956899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_112.asset using Guid(b715a9b96dd69ed499b3b7af3c956899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d0e79defd574a9855f43775e8c318b') in 0.019622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_117.asset
+  artifactKey: Guid(5292077e13b75294e83006a7dde80509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_117.asset using Guid(5292077e13b75294e83006a7dde80509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20599a278567a49806d80b780e0debb') in 0.017890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_118.asset
+  artifactKey: Guid(0662bd2752ec5414094153ebc4328500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_118.asset using Guid(0662bd2752ec5414094153ebc4328500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6207dfc7e0bf4470c9a8b7be096b780') in 0.018309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_123.asset
+  artifactKey: Guid(cfbfabba2fb334c4eb11439746a50776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_123.asset using Guid(cfbfabba2fb334c4eb11439746a50776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996ec932a16652e3bf18666354196abc') in 0.023785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_77.asset
+  artifactKey: Guid(8aca0c8d9e1d70742ac1a63b66e5f2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_77.asset using Guid(8aca0c8d9e1d70742ac1a63b66e5f2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535d6ce4691454894c50dfd427cf5c08') in 0.018484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_20.asset
+  artifactKey: Guid(06e8457ca3aa8074c9010557394ee179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_20.asset using Guid(06e8457ca3aa8074c9010557394ee179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca06d63302d9d03afa189b2eca85ac2') in 0.019364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_100.asset
+  artifactKey: Guid(a81448815d4d1d34f82d5ba2d2081266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_100.asset using Guid(a81448815d4d1d34f82d5ba2d2081266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24252be1e285c836f456b18e6d7fda0f') in 0.018988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_131.asset
+  artifactKey: Guid(007b363ca286f724e893dcc5efce31ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_131.asset using Guid(007b363ca286f724e893dcc5efce31ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930cc30aae55d52dc9fd881562ff8950') in 0.021178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_82.asset
+  artifactKey: Guid(f7e43ff804434954c872b86754ccf643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_82.asset using Guid(f7e43ff804434954c872b86754ccf643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3164529ef2d1564bc25e0723b801e27') in 0.022733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_71.asset
+  artifactKey: Guid(7640cefdcfb78db498e24192f84dcfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_71.asset using Guid(7640cefdcfb78db498e24192f84dcfda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7358d4e84391975825faaa6651f12e3f') in 0.018709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_73.asset
+  artifactKey: Guid(eaa02b7e60eca8f418d0abe02a091eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_73.asset using Guid(eaa02b7e60eca8f418d0abe02a091eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fda05f017db9adee188f2a1747f2a97') in 0.027191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_66.asset
+  artifactKey: Guid(18f0960148e992c4898bf25a93175c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_66.asset using Guid(18f0960148e992c4898bf25a93175c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d0ff320809e3101814786766d8f823') in 0.023762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_17.asset
+  artifactKey: Guid(13a5a3143698e9340a3294a06f1b2a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_17.asset using Guid(13a5a3143698e9340a3294a06f1b2a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b95b0893fb927863bb0d7d754dbe83e') in 0.018331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_54.asset
+  artifactKey: Guid(6993962944c0da34aa145abd2823701a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_54.asset using Guid(6993962944c0da34aa145abd2823701a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe8d274ff336e7a0c7bf5d90d620817') in 0.022418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_21.asset
+  artifactKey: Guid(7b4fa424279e12f4093b2411c2e6b319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_21.asset using Guid(7b4fa424279e12f4093b2411c2e6b319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f14c06e2d7f76736872642172fa644b') in 0.016207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_65.asset
+  artifactKey: Guid(0d0650a79e9ffec45b79b82de88b99e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_65.asset using Guid(0d0650a79e9ffec45b79b82de88b99e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123611efa023747d0519ec5a42e86305') in 0.016135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_104.asset
+  artifactKey: Guid(56c773cac1cbe3a4d9c6cba50580369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_104.asset using Guid(56c773cac1cbe3a4d9c6cba50580369b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a27d87aaba74e45d9bd470e93be334') in 0.016301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_106.asset
+  artifactKey: Guid(0bb9238452d0ed740a3c8c265d7858df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_106.asset using Guid(0bb9238452d0ed740a3c8c265d7858df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec096ceeffaeaca0d0b64be85adb7ad') in 0.019356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_78.asset
+  artifactKey: Guid(dbaf20de68986d746bad34b401cadda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_78.asset using Guid(dbaf20de68986d746bad34b401cadda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636f5b3d841a1a52dcc1c89c6f314f1c') in 0.025920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_99.asset
+  artifactKey: Guid(c70e0668c1db3f742a2d2085eaa03507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_99.asset using Guid(c70e0668c1db3f742a2d2085eaa03507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50981cf6530184f01ab37e48fb6f4b40') in 0.018154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_51.asset
+  artifactKey: Guid(78731b6af973bf74191b3f941b97b066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_51.asset using Guid(78731b6af973bf74191b3f941b97b066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ccb4ee6f5de75d09909d78911a366b7') in 0.015570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_36.asset
+  artifactKey: Guid(c56079d3e4c60324c9289079e348d04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_36.asset using Guid(c56079d3e4c60324c9289079e348d04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802f1d317e0ab31a123959348295fbc9') in 0.017208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_126.asset
+  artifactKey: Guid(f707eb1f0dedb0f4f87579b8cfb6e258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_126.asset using Guid(f707eb1f0dedb0f4f87579b8cfb6e258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fc4604a72fa2063a4dd21c6a9dade0') in 0.016572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_85.asset
+  artifactKey: Guid(3f9dd0ce1c9ca73469433615b42056ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_85.asset using Guid(3f9dd0ce1c9ca73469433615b42056ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab84f5f944618024472f9d3dc31684a') in 0.015814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_88.asset
+  artifactKey: Guid(5069013ec1ef9de4a8e516789930f1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_88.asset using Guid(5069013ec1ef9de4a8e516789930f1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98fb8e696f6573fdc3cf1943b74a4c27') in 0.021789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_9.asset
+  artifactKey: Guid(67d86609402e3754a90db96981336a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_9.asset using Guid(67d86609402e3754a90db96981336a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8086d2483928291d1488229c8cedf953') in 0.018057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_95.asset
+  artifactKey: Guid(a2bd66eb068fae54193b10fc381128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_95.asset using Guid(a2bd66eb068fae54193b10fc381128a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e73d12df9b2997e70788842ba90ae77') in 0.016763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_83.asset
+  artifactKey: Guid(551dfaa776f941c4b9ee3be60d6ac7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_83.asset using Guid(551dfaa776f941c4b9ee3be60d6ac7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0bdc853b31d5e6d4d42f9fbbe9bf88') in 0.020139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_107.asset
+  artifactKey: Guid(7fe69c125552ba24b843c00b487d892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_107.asset using Guid(7fe69c125552ba24b843c00b487d892d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f6454967dc19462c72beab1cc8480f') in 0.025753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_127.asset
+  artifactKey: Guid(4a7ec669aeb90394fa8422ab9757e1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_127.asset using Guid(4a7ec669aeb90394fa8422ab9757e1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf7eb9f21787b089e5c18ae3cc7a821') in 0.021258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_113.asset
+  artifactKey: Guid(7307736493fa0f844bc67482322d7fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_113.asset using Guid(7307736493fa0f844bc67482322d7fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03789f373a3b612894ead15d488e54b') in 0.023365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_120.asset
+  artifactKey: Guid(6707dd17a980e7744b6f5e2c9b4d5de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_120.asset using Guid(6707dd17a980e7744b6f5e2c9b4d5de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b74152f18ee9fee105b92d97d1ecbe') in 0.023313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_43.asset
+  artifactKey: Guid(7290fb40c51686542bf26b8a1a6733bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_43.asset using Guid(7290fb40c51686542bf26b8a1a6733bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcc5b13b8396d7756422fb55470af09') in 0.018324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_128.asset
+  artifactKey: Guid(a84f41956e8d655478a4b50d47bc29c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_128.asset using Guid(a84f41956e8d655478a4b50d47bc29c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbeec6db5699c7bbde939218371155d') in 0.017984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_48.asset
+  artifactKey: Guid(25e85983c7aeaf545b39f351df229c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_48.asset using Guid(25e85983c7aeaf545b39f351df229c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4ad86cea63c9a510d96b86349185e0') in 0.020057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_26.asset
+  artifactKey: Guid(a12960c7bf7059c4a8050230e80dc61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_26.asset using Guid(a12960c7bf7059c4a8050230e80dc61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c958ca5816231f5f52c806ab725b06') in 0.027660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_40.asset
+  artifactKey: Guid(160a327b14e3ef14083c74ab315ef99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_40.asset using Guid(160a327b14e3ef14083c74ab315ef99e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b0d933d30877697306d97c5a291d61') in 0.015463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_47.asset
+  artifactKey: Guid(3dfa2f53079e435449c9c81236c0e756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_47.asset using Guid(3dfa2f53079e435449c9c81236c0e756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05511b4b87d48ef018582d1161314beb') in 0.016380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_62.asset
+  artifactKey: Guid(53c20fbf54351a044a44e7c7a30b7af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_62.asset using Guid(53c20fbf54351a044a44e7c7a30b7af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565c6afba88a187ae26cb9449d60977a') in 0.018614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_59.asset
+  artifactKey: Guid(ee41cf9d94c743d4b829475387cadad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_59.asset using Guid(ee41cf9d94c743d4b829475387cadad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb181188c40d2b69ff0143ffb4fae5b3') in 0.017695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_55.asset
+  artifactKey: Guid(d6607fb88293f1d44b133c97b630b29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_55.asset using Guid(d6607fb88293f1d44b133c97b630b29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635df19e8d3b3b4614f6cc5c36263fb5') in 0.015905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_101.asset
+  artifactKey: Guid(d8098ca582760be4495809bbcfca5cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_101.asset using Guid(d8098ca582760be4495809bbcfca5cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b5e575a0811e68f2b0c511242355d4') in 0.016698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_11.asset
+  artifactKey: Guid(7a058a4fb4bb13d44b8715176227bad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_11.asset using Guid(7a058a4fb4bb13d44b8715176227bad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fae90c24a68dd8afccb3ce03097746c') in 0.016594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_124.asset
+  artifactKey: Guid(742668726cc51284190aa404a200076e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Enchanted Forest/Tiles/sEnchanted_Forest_124.asset using Guid(742668726cc51284190aa404a200076e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39b87e8dc6aca4f706cc0dc5856a2fa') in 0.015567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.056569 seconds.
+  path: Assets/ElvGames/Fantasy Dreamland Reborn/Water Tiles/FDR_Water_Tiles_Unity.png
+  artifactKey: Guid(f81c2caaa12468148a4a8e0689e5c159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Fantasy Dreamland Reborn/Water Tiles/FDR_Water_Tiles_Unity.png using Guid(f81c2caaa12468148a4a8e0689e5c159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8b71c69138c281fbb304f1e0f643f9') in 0.809562 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

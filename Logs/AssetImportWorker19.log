@@ -1,0 +1,390 @@
+Using pre-set license
+Built from 'HEAD' branch; Version is '2021.3.15f1c1 (080beb55ecda) revision 527339'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 49100 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Unity\Editor\2021.3.15f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker19
+-projectPath
+F:/Unity/2DBearAdventure
+-logFile
+Logs/AssetImportWorker19.log
+-srvPort
+59549
+Successfully changed project path to: F:/Unity/2DBearAdventure
+F:/Unity/2DBearAdventure
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [34740] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 3844024583 [EditorId] 3844024583 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [34740] Host "[IP] 192.168.2.114 [Port] 0 [Flags] 2 [Guid] 3844024583 [EditorId] 3844024583 [Version] 1048832 [Id] WindowsEditor(7,ZHENDONGJI-PC1L) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+Refreshing native plugins compatible for Editor in 305.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.15f1c1 (080beb55ecda)
+[Subsystems] Discovering subsystems at path E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity/2DBearAdventure/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8003 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Unity/Editor/2021.3.15f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/Editor/2021.3.15f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003479 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 306.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Domain Reload Profiling:
+	ReloadAssembly (824ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (656ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (93ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (482ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (306ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (120ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011211 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity\2DBearAdventure\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 299.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.749 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1750ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1538ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (1077ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (300ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (537ms)
+				ProcessInitializeOnLoadMethodAttributes (89ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5766 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 74 unused Assets / (2.2 MB). Loaded Objects now: 6202.
+Memory consumption went from 251.7 MB to 249.5 MB.
+Total: 4.676700 ms (FindLiveObjects: 0.652600 ms CreateObjectMapping: 0.160200 ms MarkObjects: 3.135100 ms  DeleteObjects: 0.727800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 386972.682960 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_3.asset
+  artifactKey: Guid(218fa29e2ca33ce418ea91eefd2bcdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_3.asset using Guid(218fa29e2ca33ce418ea91eefd2bcdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef214bf4d2bafdcb75cdd5a8b8fac14') in 0.086682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_23.asset
+  artifactKey: Guid(faa8f34f9085c9b458adf26d7a4d3f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_23.asset using Guid(faa8f34f9085c9b458adf26d7a4d3f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46720f4711a5c77bdcc4353d7ea3fdaa') in 0.024522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_87.asset
+  artifactKey: Guid(ca5f7affacd0f7b4f8920c3f54b8dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_87.asset using Guid(ca5f7affacd0f7b4f8920c3f54b8dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89eab12ec8dc5a145bf3ee160e2eee5e') in 0.014274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_64.asset
+  artifactKey: Guid(1c9c34867ffe3ec42988a1a37a7b65a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_64.asset using Guid(1c9c34867ffe3ec42988a1a37a7b65a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7ccbb7cc3a99be6792bce2046b4151') in 0.017482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_19.asset
+  artifactKey: Guid(8e6689f341e19014888c5b80118a3b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_19.asset using Guid(8e6689f341e19014888c5b80118a3b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7645519c7b1590acd2f653dc2a5420') in 0.030598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_45.asset
+  artifactKey: Guid(544056844b343ac4c8cc03953a9bc3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_45.asset using Guid(544056844b343ac4c8cc03953a9bc3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f422e328cd0d3f8bd82f484e1a15f7') in 0.018072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_35.asset
+  artifactKey: Guid(90dce81d5ee835b4e890f59a2961447c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_35.asset using Guid(90dce81d5ee835b4e890f59a2961447c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980d70be5d7b923f721fbc7f96cc0681') in 0.014251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_120.asset
+  artifactKey: Guid(d0ced612cd126bf4ca0eec3c6f937842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_120.asset using Guid(d0ced612cd126bf4ca0eec3c6f937842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35b6bffc0d5a1b40e87f26f0e979566') in 0.013382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_17.asset
+  artifactKey: Guid(9fdcb982d113a5f44b122998c9143144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_17.asset using Guid(9fdcb982d113a5f44b122998c9143144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ecf26d3e02e1903b305147c3d6929') in 0.021809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_28.asset
+  artifactKey: Guid(01b166edbc530614da88d8807ac5a822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_28.asset using Guid(01b166edbc530614da88d8807ac5a822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbe351008e0263400a36d6feffdf960') in 0.014617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_114.asset
+  artifactKey: Guid(4cb3b4c98e823b54e9b1e3f02881f7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_114.asset using Guid(4cb3b4c98e823b54e9b1e3f02881f7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef5a1e7d26b891ac5dacfe0b7376528') in 0.013684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_8.asset
+  artifactKey: Guid(c4c2bc0cd4263c344a6e186cbdf1b5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_8.asset using Guid(c4c2bc0cd4263c344a6e186cbdf1b5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42488a5f6398bb3bae09a98eda86d59') in 0.013180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_56.asset
+  artifactKey: Guid(aed2d6d74d242a7468ddfffc3eb0df5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_56.asset using Guid(aed2d6d74d242a7468ddfffc3eb0df5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac2854051985a2984fe52d5ba229981') in 0.012708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_95.asset
+  artifactKey: Guid(a4423986cb01cd94292a6a89dba5797b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_95.asset using Guid(a4423986cb01cd94292a6a89dba5797b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b9a194ec4dc7c5a2469c09b56a7f24') in 0.015447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_99.asset
+  artifactKey: Guid(9907f4efba511bc4baa4e350885537af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_99.asset using Guid(9907f4efba511bc4baa4e350885537af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51691d70e6f304ea3773ae7b4e05f99') in 0.029969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_59.asset
+  artifactKey: Guid(a28e8616f483f8e4b8983d28722cfae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_59.asset using Guid(a28e8616f483f8e4b8983d28722cfae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc81474081ef4c1093383122537c31bb') in 0.019102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_121.asset
+  artifactKey: Guid(34c17a0ac7ea5a747826f3a622320486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_121.asset using Guid(34c17a0ac7ea5a747826f3a622320486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff52e1d28a7bf5a3e64a5af9a85a1e9') in 0.017616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_60.asset
+  artifactKey: Guid(844bf9905fd72f74892ec993b934d857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_60.asset using Guid(844bf9905fd72f74892ec993b934d857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4fb504ab7772c75b60670d8ef35217e') in 0.014941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_14.asset
+  artifactKey: Guid(bbc35f5db71ab254f815866c47bd0cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_14.asset using Guid(bbc35f5db71ab254f815866c47bd0cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f87f2d3a593fb957ad1818eb4563a0d') in 0.014065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_33.asset
+  artifactKey: Guid(3222c85b3067f36418ab2ae3e7d89c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_33.asset using Guid(3222c85b3067f36418ab2ae3e7d89c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630b07fa7effda6534293b69669a2bb6') in 0.014537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_118.asset
+  artifactKey: Guid(f52cde2a733b77c44b926780b5cad125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland Reborn/Dungeon/Tiles/FDR_Dungeon_118.asset using Guid(f52cde2a733b77c44b926780b5cad125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca44c83031a98326a9b741b4f13f592') in 0.016183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.283814 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_004_48x48.png
+  artifactKey: Guid(7593f1c6c3e191b47940e7650a33dd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_004_48x48.png using Guid(7593f1c6c3e191b47940e7650a33dd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e3977111d41d7c913510a4b566368c') in 0.083110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_068_48x48.png
+  artifactKey: Guid(48d38b50d86d4d345a809c918911e46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_068_48x48.png using Guid(48d38b50d86d4d345a809c918911e46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88448416f82ae16d0078f3fa7b1ec99') in 0.034715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_057_48x48.png
+  artifactKey: Guid(db9ac0ecee750364082232d8508db449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_057_48x48.png using Guid(db9ac0ecee750364082232d8508db449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2d325148d5db3aa6108c6100c63950') in 0.043975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_060_48x48.png
+  artifactKey: Guid(1090a1c98a85b764288f93ccef393714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_060_48x48.png using Guid(1090a1c98a85b764288f93ccef393714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b63a6ceb901e709691980331252333a') in 0.045989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_072_48x48.png
+  artifactKey: Guid(23c8333b61b227342aab5c3935e60454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_072_48x48.png using Guid(23c8333b61b227342aab5c3935e60454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd148f595ebdfe10ce530b227583f1ec3') in 0.045102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_066_48x48.png
+  artifactKey: Guid(dd353c2f51d696e47a2727405108d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_066_48x48.png using Guid(dd353c2f51d696e47a2727405108d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bfc2dfcb70d1066c9ad7e2f4c8c5a0') in 0.043892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_056_48x48.png
+  artifactKey: Guid(9de128abe3f75ae4f9a1078209733c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_056_48x48.png using Guid(9de128abe3f75ae4f9a1078209733c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241eb8ab97ff2985caebe449a681901d') in 0.036878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_069_48x48.png
+  artifactKey: Guid(756dc67a6d071684a93e757c99f92e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_069_48x48.png using Guid(756dc67a6d071684a93e757c99f92e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fefb936a8ff6d2e8dad46d28b86f0c') in 0.040244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_017_48x48.png
+  artifactKey: Guid(a6e5eef53f8fcd04f87dfa58a83eb4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_017_48x48.png using Guid(a6e5eef53f8fcd04f87dfa58a83eb4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '492909a8660642a7d93344e855990fc8') in 0.033283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_063_48x48.png
+  artifactKey: Guid(225813dd36f79b046a1e4b99ddf48b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_063_48x48.png using Guid(225813dd36f79b046a1e4b99ddf48b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a4a554a0af43956c98f3334bcb9cac') in 0.039198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_035_48x48.png
+  artifactKey: Guid(45b1d4f101f0602469d1028cdb859d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_035_48x48.png using Guid(45b1d4f101f0602469d1028cdb859d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b21d9ad8a19231833c4a7b60aa335dc') in 0.034896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_073_48x48.png
+  artifactKey: Guid(77cd3fb5b8bf21143a2cf922c9f66a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Character Faces/Faceset_073_48x48.png using Guid(77cd3fb5b8bf21143a2cf922c9f66a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466d8396a3ff5ee110950e6673a5892f') in 0.040884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.023777 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_Slot.png
+  artifactKey: Guid(4b564e537c366954db1f6debe62ad529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_Slot.png using Guid(4b564e537c366954db1f6debe62ad529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcefdae605514e421c18dd2abb4ad37') in 0.021602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_style_03a.png
+  artifactKey: Guid(081e224a1ed853f419424402209fb691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_style_03a.png using Guid(081e224a1ed853f419424402209fb691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecc98efcfc4fd2382a13deda9963a40') in 0.027429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_style_03b.png
+  artifactKey: Guid(bcd522baccef48e46bc2060877780d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Inventory/Inventory_style_03b.png using Guid(bcd522baccef48e46bc2060877780d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb668954d8f06d4acb4219f3476dc156') in 0.023359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.926754 seconds.
+  path: Assets/Art/ElvGames/Fantasy Dreamland/UI/Keyboard Keys/Keyboard_UI_Extra02.png
+  artifactKey: Guid(c41d8745a0a97e14b9f998a4e2957aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ElvGames/Fantasy Dreamland/UI/Keyboard Keys/Keyboard_UI_Extra02.png using Guid(c41d8745a0a97e14b9f998a4e2957aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a1b538bceb86b9ec65e50080042393') in 0.026795 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
